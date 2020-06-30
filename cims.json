@@ -1,0 +1,2778 @@
+{
+  "essential": [
+    {
+      "nombre": "El Cogull\u00f3 de Cabra",
+      "lat": 41.4290355033,
+      "lang": 1.30575794888,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-cogullo-de-cabra/",
+      "comarca": "Alt Camp",
+      "alt": 881,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Cogull\u00f3-de-Cabra-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de Tretzevents",
+      "lat": 42.492101894,
+      "lang": 2.4683643295,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-tretzevents/",
+      "comarca": "Vallespir",
+      "alt": 2731,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-Tretzevents-scaled.jpg"
+    },
+    {
+      "nombre": "Torre de Madeloc",
+      "lat": 42.4904284262,
+      "lang": 3.07511682009,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/torre-de-madeloc/",
+      "comarca": "Rossell\u00f3",
+      "alt": 656,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Torre-de-Madeloc-scaled.jpg"
+    },
+    {
+      "nombre": "Cambra dAse",
+      "lat": 42.4526124454,
+      "lang": 2.12512019092,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/cambra-dase/",
+      "comarca": "Cerdanya Nord",
+      "alt": 2750,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Cambra-dAse_2.jpg"
+    },
+    {
+      "nombre": "Canig\u00f3",
+      "lat": 42.518901928,
+      "lang": 2.45655964191,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/canigo/",
+      "comarca": "Conflent",
+      "alt": 2784,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Canigo-1-scaled.jpg"
+    },
+    {
+      "nombre": "Carlit",
+      "lat": 42.5707470717,
+      "lang": 1.93149892949,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/carlit/",
+      "comarca": "Cerdanya Nord",
+      "alt": 2921,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Carlit.jpg"
+    },
+    {
+      "nombre": "Puig Peric",
+      "lat": 42.6136270709,
+      "lang": 1.98444924692,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-peric/",
+      "comarca": "Capcir, Cerdanya Nord",
+      "alt": 2810,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Peric_2-scaled.jpg"
+    },
+    {
+      "nombre": "Roc de Madres",
+      "lat": 42.6518175066,
+      "lang": 2.19240962976,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roc-de-madres/",
+      "comarca": "Conflent",
+      "alt": 2469,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roc-de-Madres-scaled.jpg"
+    },
+    {
+      "nombre": "Torre dEina",
+      "lat": 42.4344424965,
+      "lang": 2.14714732054,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/torre-deina/",
+      "comarca": "Cerdanya Nord, Conflent",
+      "alt": 2830,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Torre-dEina_3-scaled.jpg"
+    },
+    {
+      "nombre": "Casamanya Nord",
+      "lat": 42.5873416545,
+      "lang": 1.5703040881,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/casamanya-nord/",
+      "comarca": "Andorra",
+      "alt": 2750,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Casamanya-Nord_2.jpg"
+    },
+    {
+      "nombre": "Comapedrosa",
+      "lat": 42.5918057015,
+      "lang": 1.44365450486,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/comapedrosa/",
+      "comarca": "Andorra",
+      "alt": 2942,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Comapedrosa_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de la Serrera",
+      "lat": 42.625535127,
+      "lang": 1.602514145,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-la-serrera/",
+      "comarca": "Andorra",
+      "alt": 2912,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-la-Serrera_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic del Vent",
+      "lat": 41.6553025564,
+      "lang": 2.12829694974,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-del-vent/",
+      "comarca": "Vall\u00e8s Oriental",
+      "alt": 816,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-del-Vent-scaled.jpg"
+    },
+    {
+      "nombre": "Pic Negre dEnvalira",
+      "lat": 42.5172544705,
+      "lang": 1.72144258547,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-negre-denvalira/",
+      "comarca": "Andorra, Cerdanya Nord",
+      "alt": 2822,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-Negre-dEnvalira.jpg"
+    },
+    {
+      "nombre": "Sant Sadurn\u00ed de Gallifa",
+      "lat": 41.702765106,
+      "lang": 2.12295683181,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-sadurni-de-gallifa/",
+      "comarca": "Vall\u00e8s Occidental",
+      "alt": 942,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Sadurn\u00ed-de-Gallifa_2-scaled.jpg"
+    },
+    {
+      "nombre": "Tagamanent",
+      "lat": 41.7474775481,
+      "lang": 2.29602067502,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tagamanent/",
+      "comarca": "Vall\u00e8s Oriental",
+      "alt": 1056,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tagamanent-scaled.jpg"
+    },
+    {
+      "nombre": "Tristaina",
+      "lat": 42.6534200397,
+      "lang": 1.49344401828,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tristaina/",
+      "comarca": "Andorra",
+      "alt": 2878,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tristaina-scaled.jpg"
+    },
+    {
+      "nombre": "Puigmal",
+      "lat": 42.3832660904,
+      "lang": 2.11679066241,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puigmal/",
+      "comarca": "Cerdanya Nord, Ripoll\u00e8s",
+      "alt": 2910,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puigmal.jpg"
+    },
+    {
+      "nombre": "Castellsapera",
+      "lat": 41.6445253816,
+      "lang": 1.97087419147,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/castellsapera/",
+      "comarca": "Vall\u00e8s Occidental",
+      "alt": 939,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Castellsapera-scaled.jpg"
+    },
+    {
+      "nombre": "El Cogul",
+      "lat": 42.1100346816,
+      "lang": 1.6394532915,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-cogul/",
+      "comarca": "Solson\u00e8s",
+      "alt": 1526,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Cogul.jpg"
+    },
+    {
+      "nombre": "La Mola de Sant Lloren\u00e7 del Munt",
+      "lat": 41.6411519036,
+      "lang": 2.01767220976,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-mola-de-sant-llorenc-del-munt/",
+      "comarca": "Vall\u00e8s Occidental",
+      "alt": 1102,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Mola-de-Sant-Lloren\u00e7-del-Munt-1.jpg"
+    },
+    {
+      "nombre": "Les Agudes",
+      "lat": 41.7893335256,
+      "lang": 2.44395480371,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/les-agudes/",
+      "comarca": "Selva, Vall\u00e8s Oriental",
+      "alt": 1705,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Les-Agudes-scaled.jpg"
+    },
+    {
+      "nombre": "Maub\u00e8rme",
+      "lat": 42.7937464428,
+      "lang": 0.917142208298,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/mauberme/",
+      "comarca": "Val d'Aran",
+      "alt": 2882,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Maub\u00e8rme-scaled.jpg"
+    },
+    {
+      "nombre": "Montardo",
+      "lat": 42.6333280573,
+      "lang": 0.875353350552,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montardo/",
+      "comarca": "Val d'Aran",
+      "alt": 2833,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montardo-scaled.jpg"
+    },
+    {
+      "nombre": "Montcorbison",
+      "lat": 42.7078178721,
+      "lang": 0.758684327977,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montcorbison/",
+      "comarca": "Val d'Aran",
+      "alt": 2173,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montcorbisson.jpg"
+    },
+    {
+      "nombre": "Montlude",
+      "lat": 42.7852609493,
+      "lang": 0.758715323462,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montlude/",
+      "comarca": "Val d'Aran",
+      "alt": 2518,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montlude-scaled.jpg"
+    },
+    {
+      "nombre": "Punta de Montmeneu",
+      "lat": 41.3887118921,
+      "lang": 0.401385033909,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montmeneu/",
+      "comarca": "Segri\u00e0",
+      "alt": 495,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Punta-de-Montmeneu_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pilar dAlmenara",
+      "lat": 41.7534156867,
+      "lang": 1.06724684153,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pilar-dalmenara/",
+      "comarca": "Urgell",
+      "alt": 459,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pilar-dAlmenara-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de la Creu",
+      "lat": 41.6292076749,
+      "lang": 2.10122891326,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-creu/",
+      "comarca": "Vall\u00e8s Occidental",
+      "alt": 668,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-la-Creu-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de les Morreres",
+      "lat": 42.1509179033,
+      "lang": 1.5394423235,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-morreres/",
+      "comarca": "Solson\u00e8s",
+      "alt": 2211,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-les-Morreres.jpg"
+    },
+    {
+      "nombre": "Roques de Benet (el Castell)",
+      "lat": 40.90065369,
+      "lang": 0.326553661024,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roques-de-benet-el-castell/",
+      "comarca": "Terra Alta",
+      "alt": 1017,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roques-de-Benet-scaled.jpg"
+    },
+    {
+      "nombre": "Sant Miquel de Solterra",
+      "lat": 41.923121729,
+      "lang": 2.53302886771,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-miquel-de-solterra/",
+      "comarca": "Selva",
+      "alt": 1203,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Miquel-de-Solterra_2.jpg"
+    },
+    {
+      "nombre": "Santa B\u00e0rbara",
+      "lat": 40.9568864446,
+      "lang": 0.338327729704,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/santa-barbara/",
+      "comarca": "Terra Alta",
+      "alt": 752,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Santa-Barbara_2-scaled.jpg"
+    },
+    {
+      "nombre": "Taga",
+      "lat": 42.2807720623,
+      "lang": 2.20988746608,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/taga/",
+      "comarca": "Ripoll\u00e8s",
+      "alt": 2040,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Taga-scaled.jpg"
+    },
+    {
+      "nombre": "Tossal de la Creu",
+      "lat": 41.8465649784,
+      "lang": 1.40207143007,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-la-creu/",
+      "comarca": "Segarra",
+      "alt": 658,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-de-la-Creu_2-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc de Moli\u00e8res",
+      "lat": 42.6294790552,
+      "lang": 0.698560841901,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-molieres/",
+      "comarca": "Val d'Aran",
+      "alt": 3010,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-de-Mol\u00e8res.jpg"
+    },
+    {
+      "nombre": "Tuc deth Port de Vielha",
+      "lat": 42.6418637321,
+      "lang": 0.765530738046,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-deth-port-de-vielha/",
+      "comarca": "Val d'Aran",
+      "alt": 2606,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-deth-Port-de-Vielha_2-des-del-llac-redon.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 de Montsoriu",
+      "lat": 41.7827714155,
+      "lang": 2.54064315408,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-montsoriu/",
+      "comarca": "Selva",
+      "alt": 633,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-de-Montsoriu-scaled.jpg"
+    },
+    {
+      "nombre": "Balandrau",
+      "lat": 42.3701065555,
+      "lang": 2.21956587983,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/balandrau/",
+      "comarca": "Ripoll\u00e8s",
+      "alt": 2585,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Balandrau.jpg"
+    },
+    {
+      "nombre": "Bastiments",
+      "lat": 42.4262224049,
+      "lang": 2.2328618189,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/bastiments/",
+      "comarca": "Conflent, Ripoll\u00e8s",
+      "alt": 2881,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Bastiments-scaled.jpg"
+    },
+    {
+      "nombre": "Costa Pubilla o Pla de Pujalts",
+      "lat": 42.2857169362,
+      "lang": 2.08066391016,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/costa-pubilla-o-pla-de-pujalts/",
+      "comarca": "Ripoll\u00e8s",
+      "alt": 2056,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Costa-Pubilla-scaled.jpg"
+    },
+    {
+      "nombre": "Costabona",
+      "lat": 42.4168972338,
+      "lang": 2.34391990901,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/costabona/",
+      "comarca": "Ripoll\u00e8s, Vallespir",
+      "alt": 2465,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Costabona-scaled.jpg"
+    },
+    {
+      "nombre": "La Fita Alta",
+      "lat": 41.6129870926,
+      "lang": 0.843120284099,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-fita-alta/",
+      "comarca": "Pla d'Urgell",
+      "alt": 289,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Fita-Alta.jpg"
+    },
+    {
+      "nombre": "La Picossa",
+      "lat": 41.1094058162,
+      "lang": 0.57641655962,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-picossa/",
+      "comarca": "Ribera d'Ebre",
+      "alt": 499,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Picossa_2-scaled.jpg"
+    },
+    {
+      "nombre": "La Tossa (Tivissa)",
+      "lat": 41.0289467835,
+      "lang": 0.736267392572,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-tossa-tivissa/",
+      "comarca": "Ribera d'Ebre",
+      "alt": 718,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Tossa-Tivissa-scaled.jpg"
+    },
+    {
+      "nombre": "Lo Tormo",
+      "lat": 41.1790342228,
+      "lang": 0.643458682023,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/lo-tormo/",
+      "comarca": "Ribera d'Ebre",
+      "alt": 523,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Lo-Tormo-scaled.jpg"
+    },
+    {
+      "nombre": "Roca Corbatera",
+      "lat": 41.288591728,
+      "lang": 0.891232362067,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roca-corbatera/",
+      "comarca": "Priorat",
+      "alt": 1163,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roca-Corbatera-scaled.jpg"
+    },
+    {
+      "nombre": "Sant Patllar\u00ed",
+      "lat": 42.1120830253,
+      "lang": 2.71172885085,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-patllari/",
+      "comarca": "Pla de l'Estany",
+      "alt": 646,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Patllari-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc de la Llan\u00e7a",
+      "lat": 42.6840617618,
+      "lang": 0.990518362006,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-llanca/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2659,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-de-la-Llan\u00e7a_2-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc de Ratera",
+      "lat": 42.6012245847,
+      "lang": 0.953482311716,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-ratera/",
+      "comarca": "Pallars Sobir\u00e0, Val d'Aran",
+      "alt": 2861,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Ratera-scaled.jpg"
+    },
+    {
+      "nombre": "Campirme",
+      "lat": 42.6595207314,
+      "lang": 1.19362547646,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/campirme/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2633,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Campirme.jpg"
+    },
+    {
+      "nombre": "Lo T\u00e9sol (Tes\u00f3 de Son)",
+      "lat": 42.6083714427,
+      "lang": 1.03925511174,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/lo-tesol-teso-de-son/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2700,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Lo-T\u00e9sol_3-scaled.jpg"
+    },
+    {
+      "nombre": "Mont-roig",
+      "lat": 42.7108,
+      "lang": 1.1768,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/mont-roig/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2864,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montroig.jpg"
+    },
+    {
+      "nombre": "Monteixo",
+      "lat": 42.6017,
+      "lang": 1.3617,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/monteixo/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2905,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Monteixo_2.jpg"
+    },
+    {
+      "nombre": "Pic de Certascan",
+      "lat": 42.7119661042,
+      "lang": 1.27771844284,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-certascan/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2853,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Certascan.jpg"
+    },
+    {
+      "nombre": "Pic de Moredo",
+      "lat": 42.718939301,
+      "lang": 1.04993056374,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-moredo/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2766,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Moredo_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Sotllo",
+      "lat": 42.6687087543,
+      "lang": 1.38745825992,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-sotllo/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 3073,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Sotllo.jpg"
+    },
+    {
+      "nombre": "Pica dEstats",
+      "lat": 42.6669371771,
+      "lang": 1.39790065859,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pica-destats/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 3144,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pica-dEstats.jpg"
+    },
+    {
+      "nombre": "Sant Corneli",
+      "lat": 42.1828150542,
+      "lang": 1.00279294037,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-corneli/",
+      "comarca": "Pallars Juss\u00e0",
+      "alt": 1351,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Corneli-scaled.jpg"
+    },
+    {
+      "nombre": "Torreta de lOrri",
+      "lat": 42.4082200283,
+      "lang": 1.21520712654,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/torreta-de-lorri/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2436,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Torreta-de-lOrri-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc de la Cometa",
+      "lat": 42.4236996448,
+      "lang": 1.03304925486,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-cometa/",
+      "comarca": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+      "alt": 2445,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-de-la-Cometa-scaled.jpg"
+    },
+    {
+      "nombre": "Bellmunt",
+      "lat": 42.1015354717,
+      "lang": 2.29375027555,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/bellmunt/",
+      "comarca": "Osona",
+      "alt": 1248,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Bellmunt_2-scaled.jpg"
+    },
+    {
+      "nombre": "Cap de Boumort",
+      "lat": 42.2350097134,
+      "lang": 1.13468387277,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/cap-de-boumort/",
+      "comarca": "Pallars Juss\u00e0",
+      "alt": 2077,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Cap-de-Boumort.jpg"
+    },
+    {
+      "nombre": "Castell de Milany",
+      "lat": 42.1655542733,
+      "lang": 2.28960053077,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-milany/",
+      "comarca": "Osona, Ripoll\u00e8s",
+      "alt": 1529,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Castell-de-Milany-scaled.jpg"
+    },
+    {
+      "nombre": "Creu de Gurb",
+      "lat": 41.9520875639,
+      "lang": 2.21046092543,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/creu-de-gurb/",
+      "comarca": "Osona",
+      "alt": 842,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Creu-de-Gurb.jpg"
+    },
+    {
+      "nombre": "Matagalls",
+      "lat": 41.8088174884,
+      "lang": 2.38261778463,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/matagalls/",
+      "comarca": "Osona, Vall\u00e8s Oriental",
+      "alt": 1697,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Matagalls-scaled.jpg"
+    },
+    {
+      "nombre": "Montsent de Pallars",
+      "lat": 42.4901106285,
+      "lang": 1.02442265779,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montsent-de-pallars/",
+      "comarca": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+      "alt": 2883,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montsent-de-Pallars-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Peguera",
+      "lat": 42.540541256,
+      "lang": 1.01195828499,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-peguera/",
+      "comarca": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+      "alt": 2983,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Peguera_2.jpg"
+    },
+    {
+      "nombre": "Pica de Cerv\u00ed",
+      "lat": 42.4529431796,
+      "lang": 0.879226097309,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pica-de-cervi/",
+      "comarca": "Pallars Juss\u00e0",
+      "alt": 2753,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pica-de-Cerv\u00ed_2.jpg"
+    },
+    {
+      "nombre": "Pui de Ller\u00e0s",
+      "lat": 42.2691950908,
+      "lang": 0.852649166388,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pui-de-lleras/",
+      "comarca": "Pallars Juss\u00e0",
+      "alt": 1692,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pui-de-Lleras-scaled.jpg"
+    },
+    {
+      "nombre": "Rocallarga",
+      "lat": 42.0098094301,
+      "lang": 2.44560136469,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/rocallarga/",
+      "comarca": "Osona",
+      "alt": 1187,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Rocallarga-scaled.jpg"
+    },
+    {
+      "nombre": "Cabrera",
+      "lat": 42.0759961774,
+      "lang": 2.40727154853,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/cabrera/",
+      "comarca": "Garrotxa, Osona",
+      "alt": 1308,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Cabrera-scaled.jpg"
+    },
+    {
+      "nombre": "Castell de Burriac",
+      "lat": 41.5374582022,
+      "lang": 2.38733933206,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-burriac/",
+      "comarca": "Maresme",
+      "alt": 392,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Castell-de-Burriac.jpg"
+    },
+    {
+      "nombre": "Castell de Sant Miquel",
+      "lat": 42.0068953001,
+      "lang": 2.86209176566,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-sant-miquel/",
+      "comarca": "Giron\u00e8s",
+      "alt": 385,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Castell-de-Sant-Miquel.jpg"
+    },
+    {
+      "nombre": "Comanegra",
+      "lat": 42.3333072525,
+      "lang": 2.52776092867,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/comanegra/",
+      "comarca": "Garrotxa, Vallespir",
+      "alt": 1557,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Comanegra.jpg"
+    },
+    {
+      "nombre": "Els \u00c0ngels",
+      "lat": 41.9848033724,
+      "lang": 2.90862814766,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/els-angels/",
+      "comarca": "Giron\u00e8s",
+      "alt": 483,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Els-\u00c0ngels_2-scaled.jpg"
+    },
+    {
+      "nombre": "Els Bessons",
+      "lat": 41.4665607398,
+      "lang": 0.847132154148,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/els-bessons/",
+      "comarca": "Garrigues",
+      "alt": 593,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Els-Bessons.jpg"
+    },
+    {
+      "nombre": "La Carabassa",
+      "lat": 42.4579797147,
+      "lang": 1.72717359885,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-carabassa/",
+      "comarca": "Cerdanya",
+      "alt": 2740,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Carabassa_3-scaled.jpg"
+    },
+    {
+      "nombre": "La Muga",
+      "lat": 42.4747635712,
+      "lang": 1.67761271375,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-muga/",
+      "comarca": "Cerdanya",
+      "alt": 2861,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Muga_3.jpg"
+    },
+    {
+      "nombre": "Montalt",
+      "lat": 41.6041277928,
+      "lang": 2.49632222322,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montalt/",
+      "comarca": "Maresme",
+      "alt": 597,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montalt-scaled.jpg"
+    },
+    {
+      "nombre": "Pala Alta",
+      "lat": 41.8962885339,
+      "lang": 0.836346461295,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pala-alta/",
+      "comarca": "Noguera",
+      "alt": 947,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pala-Alta-scaled.jpg"
+    },
+    {
+      "nombre": "Penya Sant Al\u00eds",
+      "lat": 42.0398582745,
+      "lang": 0.766567591212,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/penya-sant-alis/",
+      "comarca": "Noguera, Pallars Juss\u00e0",
+      "alt": 1675,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Penya-Sant-Alis-scaled.jpg"
+    },
+    {
+      "nombre": "Puig Ou",
+      "lat": 42.2841286008,
+      "lang": 2.42776271465,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-ou/",
+      "comarca": "Garrotxa, Ripoll\u00e8s",
+      "alt": 1300,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Ou.jpg"
+    },
+    {
+      "nombre": "Puigpedr\u00f3s",
+      "lat": 42.4875750896,
+      "lang": 1.76193328898,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puigpedros/",
+      "comarca": "Cerdanya, Cerdanya Nord",
+      "alt": 2915,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puigpedros.jpg"
+    },
+    {
+      "nombre": "Puigsacalm",
+      "lat": 42.1251777741,
+      "lang": 2.38789142783,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puigsacalm/",
+      "comarca": "Garrotxa",
+      "alt": 1514,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puigsacalm_2.jpg"
+    },
+    {
+      "nombre": "Punta del Curull",
+      "lat": 41.3552988479,
+      "lang": 0.96432912146,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/punta-del-curull/",
+      "comarca": "Conca de Barber\u00e0, Garrigues",
+      "alt": 1022,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Punta-del-Curull.jpg"
+    },
+    {
+      "nombre": "Sant Mamet",
+      "lat": 41.9778152606,
+      "lang": 0.94130938873,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-mamet/",
+      "comarca": "Noguera",
+      "alt": 1391,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Mamet.jpg"
+    },
+    {
+      "nombre": "Sant Miquel de Montclar",
+      "lat": 41.465725492,
+      "lang": 1.34564773737,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-miquel-de-montclar/",
+      "comarca": "Conca de Barber\u00e0",
+      "alt": 948,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Miquel-de-Montclar.jpg"
+    },
+    {
+      "nombre": "Torreta del Montsi\u00e0",
+      "lat": 40.6136410446,
+      "lang": 0.530331521271,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/torreta-del-montsia/",
+      "comarca": "Montsi\u00e0",
+      "alt": 763,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Torreta-de-Montsi\u00e0-1.jpg"
+    },
+    {
+      "nombre": "Tossa Plana de Lles (pic de la Portelleta)",
+      "lat": 42.4682057164,
+      "lang": 1.65656107795,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossa-plana-de-lles-pic-de-la-portelleta/",
+      "comarca": "Andorra, Cerdanya",
+      "alt": 2905,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossa-Plana-de-Lles_2.jpg"
+    },
+    {
+      "nombre": "Tossal de Mirapallars-i-Urgell",
+      "lat": 42.0210727556,
+      "lang": 0.959033353518,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-mirapallars-i-urgell/",
+      "comarca": "Noguera, Pallars Juss\u00e0",
+      "alt": 1672,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-de-Mirapallars-i-Urgell-scaled.jpg"
+    },
+    {
+      "nombre": "Tossal dels Tres Reis",
+      "lat": 40.732788284,
+      "lang": 0.170231508703,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-dels-tres-reis/",
+      "comarca": "Montsi\u00e0",
+      "alt": 1350,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-dels-Tres-Reis_2-scaled.jpg"
+    },
+    {
+      "nombre": "Tossal Gros de Vallbona",
+      "lat": 41.4688603287,
+      "lang": 1.11287099172,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-gros-de-vallbona/",
+      "comarca": "Conca de Barber\u00e0, Urgell",
+      "alt": 803,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-Gros-de-Vallbona.jpg"
+    },
+    {
+      "nombre": "Cap de la Gallina Pelada",
+      "lat": 42.1894343677,
+      "lang": 1.73803778545,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/cap-de-la-gallina-pelada/",
+      "comarca": "Bergued\u00e0",
+      "alt": 2321,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Cap-de-la-Gallina-Pelada_2-scaled.jpg"
+    },
+    {
+      "nombre": "Cogull\u00f3 dEstela",
+      "lat": 42.1216063043,
+      "lang": 1.78708523867,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/cogullo-destela/",
+      "comarca": "Bergued\u00e0",
+      "alt": 1870,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Cogull\u00f3-dEstela_2-scaled.jpg"
+    },
+    {
+      "nombre": "Comabona",
+      "lat": 42.2837256647,
+      "lang": 1.72723092081,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/comabona/",
+      "comarca": "Bergued\u00e0, Cerdanya",
+      "alt": 2548,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Comabona-scaled.jpg"
+    },
+    {
+      "nombre": "La Mola",
+      "lat": 41.2116572604,
+      "lang": 1.41730041394,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-mola/",
+      "comarca": "Baix Pened\u00e8s, Tarragon\u00e8s",
+      "alt": 317,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Mola-Bonastre-scaled.jpg"
+    },
+    {
+      "nombre": "La Tosa",
+      "lat": 42.3205750504,
+      "lang": 1.89266087667,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-tosa/",
+      "comarca": "Bergued\u00e0, Cerdanya",
+      "alt": 2536,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Tosa.jpg"
+    },
+    {
+      "nombre": "Penyes Altes",
+      "lat": 42.3063002008,
+      "lang": 1.84247482148,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/penyes-altes/",
+      "comarca": "Bergued\u00e0, Cerdanya",
+      "alt": 2276,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Penyes-Altes_2.jpg"
+    },
+    {
+      "nombre": "Polleg\u00f3 Superior (Pedraforca)",
+      "lat": 42.2399451722,
+      "lang": 1.70292577431,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pollego-superior-pedraforca/",
+      "comarca": "Bergued\u00e0",
+      "alt": 2506,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pedraforca_2.jpg"
+    },
+    {
+      "nombre": "Puig Castellar",
+      "lat": 41.4703022946,
+      "lang": 2.2065864631,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-castellar/",
+      "comarca": "Barcelon\u00e8s, Vall\u00e8s Occidental",
+      "alt": 303,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Castellar-scaled.jpg"
+    },
+    {
+      "nombre": "Sant Salvador de les Espases",
+      "lat": 41.5790930928,
+      "lang": 1.88442879727,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-salvador-de-les-espases/",
+      "comarca": "Baix Llobregat, Vall\u00e8s Occidental",
+      "alt": 413,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Salvador-de-les-Espases-scaled.jpg"
+    },
+    {
+      "nombre": "Talaia del Montmell",
+      "lat": 41.3357901533,
+      "lang": 1.46671424676,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/talaia-del-montmell/",
+      "comarca": "Baix Pened\u00e8s",
+      "alt": 861,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Talaia-del-Montmell.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 de Magarola",
+      "lat": 41.4421744885,
+      "lang": 2.12968297951,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-magarola/",
+      "comarca": "Barcelon\u00e8s, Vall\u00e8s Occidental",
+      "alt": 430,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Turo-de-Magarola.jpg"
+    },
+    {
+      "nombre": "Caro",
+      "lat": 40.8031301137,
+      "lang": 0.343121075505,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/caro/",
+      "comarca": "Baix Ebre",
+      "alt": 1441,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Caro-des-de-lEspina-scaled.jpg"
+    },
+    {
+      "nombre": "Castell de Montgr\u00ed",
+      "lat": 42.0521068681,
+      "lang": 3.13164949925,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-montgri/",
+      "comarca": "Baix Empord\u00e0",
+      "alt": 303,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Castell-de-Montgri_2-scaled.jpg"
+    },
+    {
+      "nombre": "Cavall Bernat de Llaberia",
+      "lat": 41.0840507023,
+      "lang": 0.875157009664,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/cavall-bernat-de-llaberia/",
+      "comarca": "Baix Camp",
+      "alt": 840,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Cavall-Bernat-de-Llaberia_2-scaled.jpg"
+    },
+    {
+      "nombre": "Collbaix",
+      "lat": 41.740870427,
+      "lang": 1.78096524985,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/collbaix/",
+      "comarca": "Bages",
+      "alt": 543,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Collbaix.jpg"
+    },
+    {
+      "nombre": "La Morella",
+      "lat": 41.2965325027,
+      "lang": 1.91548593125,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-morella/",
+      "comarca": "Baix Llobregat",
+      "alt": 594,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Morella.jpg"
+    },
+    {
+      "nombre": "Mola dEstat",
+      "lat": 41.3255542218,
+      "lang": 1.06058023385,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/mola-destat/",
+      "comarca": "Baix Camp, Conca de Barber\u00e0",
+      "alt": 1136,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Mola-dEstat_2.jpg"
+    },
+    {
+      "nombre": "Mola de Colldejou",
+      "lat": 41.107465464,
+      "lang": 0.873961400419,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/mola-de-colldejou/",
+      "comarca": "Baix Camp",
+      "alt": 922,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Mola-de-Colldejou.jpg"
+    },
+    {
+      "nombre": "Mola de Genesies",
+      "lat": 41.0162924783,
+      "lang": 0.785434472003,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/mola-de-genesies/",
+      "comarca": "Baix Camp, Ribera d'Ebre",
+      "alt": 711,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Mola-de-Genesies.jpg"
+    },
+    {
+      "nombre": "Moll\u00f3 Puntaire",
+      "lat": 40.9906241809,
+      "lang": 0.847835490761,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/mollo-puntaire/",
+      "comarca": "Baix Camp",
+      "alt": 727,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Mollo-Puntaire_2-scaled.jpg"
+    },
+    {
+      "nombre": "Montcau",
+      "lat": 41.6750412662,
+      "lang": 2.00462687673,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montcau/",
+      "comarca": "Bages, Vall\u00e8s Occidental",
+      "alt": 1057,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montcau.jpg"
+    },
+    {
+      "nombre": "Puig de la Cabrafiga",
+      "lat": 41.0534399179,
+      "lang": 0.895050001562,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cabrafiga/",
+      "comarca": "Baix Camp",
+      "alt": 614,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-la-Cabrafiga.jpg"
+    },
+    {
+      "nombre": "Puig de la Caritat",
+      "lat": 41.8757956096,
+      "lang": 2.10883311828,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-caritat/",
+      "comarca": "Moian\u00e8s",
+      "alt": 1010,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-la-Caritat-scaled.jpg"
+    },
+    {
+      "nombre": "Roca de Sant Salvador (lElefant)",
+      "lat": 41.5957799591,
+      "lang": 1.82973892266,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roca-de-sant-salvador-lelefant/",
+      "comarca": "Bages",
+      "alt": 1156,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roca-de-Sant-Salvador_2.jpg"
+    },
+    {
+      "nombre": "Sant Pere M\u00e0rtir",
+      "lat": 41.3936585908,
+      "lang": 2.0978784699,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-pere-martir/",
+      "comarca": "Baix Llobregat, Barcelon\u00e8s",
+      "alt": 389,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Pere-Martir-scaled.jpg"
+    },
+    {
+      "nombre": "Sant Ramon",
+      "lat": 41.3377752491,
+      "lang": 2.01117775092,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-ramon/",
+      "comarca": "Baix Llobregat",
+      "alt": 295,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Ramon-scaled.jpg"
+    },
+    {
+      "nombre": "Tossal dEngrill\u00f3",
+      "lat": 40.9430405014,
+      "lang": 0.370789362269,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-dengrillo/",
+      "comarca": "Baix Ebre, Terra Alta",
+      "alt": 1072,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-dEngrillo.jpg"
+    },
+    {
+      "nombre": "Tossal de la Baltasana",
+      "lat": 41.3260040526,
+      "lang": 1.00419364629,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-la-baltasana/",
+      "comarca": "Baix Camp, Conca de Barber\u00e0",
+      "alt": 1201,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-de-la-Baltasana.jpg"
+    },
+    {
+      "nombre": "X\u00e0quera o Creu de Santos",
+      "lat": 40.9406887493,
+      "lang": 0.586018857692,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/xaquera-o-creu-de-santos/",
+      "comarca": "Baix Ebre, Ribera d'Ebre",
+      "alt": 942,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/X\u00e0quera-Creu-de-Santos.jpg"
+    },
+    {
+      "nombre": "Lo Corronco",
+      "lat": 42.4621240806,
+      "lang": 0.828503168114,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/lo-corrunco/",
+      "comarca": "Alta Ribagor\u00e7a",
+      "alt": 2543,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Lo-Corronco_3-scaled.jpg"
+    },
+    {
+      "nombre": "Montgr\u00f2s",
+      "lat": 41.5999938678,
+      "lang": 1.80508768977,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montgros/",
+      "comarca": "Anoia",
+      "alt": 1133,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montgros.jpg"
+    },
+    {
+      "nombre": "Pala del Teller",
+      "lat": 42.3168553491,
+      "lang": 0.809481028197,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pala-del-teller/",
+      "comarca": "Alta Ribagor\u00e7a, Pallars Juss\u00e0",
+      "alt": 1889,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pala-del-Teller_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Comaloforno",
+      "lat": 42.5913820355,
+      "lang": 0.827834271065,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-comaloforno/",
+      "comarca": "Alta Ribagor\u00e7a",
+      "alt": 3029,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Comaloforno-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de Sant Miquel",
+      "lat": 41.6372385192,
+      "lang": 1.58098481729,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-miquel/",
+      "comarca": "Anoia",
+      "alt": 733,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-Sant-Miquel.jpg"
+    },
+    {
+      "nombre": "Punta Alta",
+      "lat": 42.5857010202,
+      "lang": 0.880286835146,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/punta-alta/",
+      "comarca": "Alta Ribagor\u00e7a",
+      "alt": 3014,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Punta-Alta_2.jpg"
+    },
+    {
+      "nombre": "Sant Jeroni",
+      "lat": 41.6053835626,
+      "lang": 1.81150454088,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-jeroni/",
+      "comarca": "Anoia, Bages",
+      "alt": 1236,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Jeroni.jpg"
+    },
+    {
+      "nombre": "Tossal de les Roies de Cardet",
+      "lat": 42.5185798109,
+      "lang": 0.765365646658,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-les-roies-de-cardet/",
+      "comarca": "Alta Ribagor\u00e7a",
+      "alt": 2445,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-de-les-Roies-de-Cardet_2-scaled.jpg"
+    },
+    {
+      "nombre": "Bony de la Pica o Pica dOs",
+      "lat": 42.504804,
+      "lang": 1.460396,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/bony-de-la-pica-o-pica-dos/",
+      "comarca": "Alt Urgell, Andorra",
+      "alt": 2405,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Bony-de-la-Pica-scaled.jpg"
+    },
+    {
+      "nombre": "Cap del Verd",
+      "lat": 42.2008147325,
+      "lang": 1.61370601396,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/cap-del-verd/",
+      "comarca": "Alt Urgell, Bergued\u00e0, Solson\u00e8s",
+      "alt": 2284,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Cap-del-Verd.jpg"
+    },
+    {
+      "nombre": "Cogull\u00f3 de Turp",
+      "lat": 42.1511470485,
+      "lang": 1.34727840172,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/cogullo-de-turp/",
+      "comarca": "Alt Urgell",
+      "alt": 1621,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Cogull\u00f3-de-Turp-scaled.jpg"
+    },
+    {
+      "nombre": "El Coscollet",
+      "lat": 42.1141439558,
+      "lang": 1.2675128268,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-coscollet/",
+      "comarca": "Alt Urgell",
+      "alt": 1610,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Coscollet_2.jpg"
+    },
+    {
+      "nombre": "Gran Tuc de Colomers",
+      "lat": 42.589389693,
+      "lang": 0.93780698965,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/gran-tuc-de-colomers/",
+      "comarca": "Alta Ribagor\u00e7a, Val d'Aran",
+      "alt": 2933,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Gran-Tuc-de-Colomers-scaled.jpg"
+    },
+    {
+      "nombre": "Monturull",
+      "lat": 42.4499499945,
+      "lang": 1.58099716436,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/monturull/",
+      "comarca": "Alt Urgell, Andorra, Cerdanya",
+      "alt": 2760,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Monturull-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Sal\u00f2ria",
+      "lat": 42.5144490848,
+      "lang": 1.38513757735,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-saloria/",
+      "comarca": "Alt Urgell, Pallars Sobir\u00e0",
+      "alt": 2789,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Sal\u00f2ria_2-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de l\u00c0liga",
+      "lat": 41.2838672007,
+      "lang": 1.69738245456,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-laliga/",
+      "comarca": "Alt Pened\u00e8s, Garraf",
+      "alt": 464,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-lAliga_2.jpg"
+    },
+    {
+      "nombre": "Sant Honorat",
+      "lat": 42.083792,
+      "lang": 1.270382,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-honorat/",
+      "comarca": "Alt Urgell",
+      "alt": 1068,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Honorat-scaled.jpg"
+    },
+    {
+      "nombre": "Santa Fe",
+      "lat": 42.2090661303,
+      "lang": 1.30115336685,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/santa-fe/",
+      "comarca": "Alt Urgell",
+      "alt": 1211,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Santa-Fe_3-scaled.jpg"
+    },
+    {
+      "nombre": "Vultur\u00f3",
+      "lat": 42.2857798845,
+      "lang": 1.63642947853,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/vulturo/",
+      "comarca": "Alt Urgell",
+      "alt": 2649,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Vultur\u00f3-scaled.jpg"
+    },
+    {
+      "nombre": "Bassegoda",
+      "lat": 42.3127998427,
+      "lang": 2.63072820832,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/bassegoda/",
+      "comarca": "Alt Empord\u00e0, Garrotxa",
+      "alt": 1373,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/bassegoda_Oscar.jpg"
+    },
+    {
+      "nombre": "Castell Saverdera",
+      "lat": 42.3199721871,
+      "lang": 3.16782473062,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/castell-saverdera/",
+      "comarca": "Alt Empord\u00e0",
+      "alt": 682,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Castell-Saverdera.jpg"
+    },
+    {
+      "nombre": "El Castellot",
+      "lat": 41.3375872509,
+      "lang": 1.57862965411,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-castellot/",
+      "comarca": "Alt Pened\u00e8s",
+      "alt": 465,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Castellot_2-scaled.jpg"
+    },
+    {
+      "nombre": "El Mont",
+      "lat": 42.2588459605,
+      "lang": 2.70629661635,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-mont/",
+      "comarca": "Alt Empord\u00e0",
+      "alt": 1125,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Mont_2.jpg"
+    },
+    {
+      "nombre": "El Tossal Gros",
+      "lat": 41.3753563472,
+      "lang": 1.23938718304,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-tossal-gros/",
+      "comarca": "Alt Camp, Conca de Barber\u00e0",
+      "alt": 867,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-Gros-scaled.jpg"
+    },
+    {
+      "nombre": "Penya del Papiol",
+      "lat": 41.3229,
+      "lang": 1.7438,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/penya-del-papiol/",
+      "comarca": "Alt Pened\u00e8s",
+      "alt": 381,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Penya-del-Papiol.jpg"
+    },
+    {
+      "nombre": "Puig Neul\u00f3s",
+      "lat": 42.482101374,
+      "lang": 2.94711007326,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-neulos/",
+      "comarca": "Alt Empord\u00e0, Rossell\u00f3",
+      "alt": 1257,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Neulos-scaled.jpg"
+    },
+    {
+      "nombre": "Roc del Comptador",
+      "lat": 42.4227911919,
+      "lang": 2.72729098521,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roc-del-comptador/",
+      "comarca": "Alt Empord\u00e0, Vallespir",
+      "alt": 1451,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roc-del-Comptador_2-scaled.jpg"
+    },
+    {
+      "nombre": "Tossa Grossa de Montferri",
+      "lat": 41.2534469696,
+      "lang": 1.37048307675,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossa-grossa-de-montferri/",
+      "comarca": "Alt Camp",
+      "alt": 387,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossa-Grossa-de-Montferri-scaled.jpg"
+    }
+  ],
+  "repte": [
+    {
+      "nombre": "Torres de Cabren\u00e7",
+      "lat": 42.3645718057,
+      "lang": 2.5421728176,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/torres-de-cabrenc/",
+      "comarca": "Vallespir",
+      "alt": 1344,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Torres-de-Cabren\u00e7.jpg"
+    },
+    {
+      "nombre": "Puig de Sant Cristau",
+      "lat": 42.4920219845,
+      "lang": 2.89069878728,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-cristau/",
+      "comarca": "Vallespir",
+      "alt": 1015,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-Sant-Cristau_2.jpg"
+    },
+    {
+      "nombre": "Torre del Far",
+      "lat": 42.8054119343,
+      "lang": 2.76180548558,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/torre-del-far/",
+      "comarca": "Rossell\u00f3",
+      "alt": 498,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Torre-del-Far_2-scaled.jpg"
+    },
+    {
+      "nombre": "Roc de Mallorca",
+      "lat": 42.6136853093,
+      "lang": 2.7114749872,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roc-de-mallorca/",
+      "comarca": "Rossell\u00f3",
+      "alt": 443,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roc-de-Mallorca_2-scaled.jpg"
+    },
+    {
+      "nombre": "Montolier de Perell\u00f3s",
+      "lat": 42.9185248623,
+      "lang": 2.86518569768,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montolier-de-perellos/",
+      "comarca": "Rossell\u00f3",
+      "alt": 707,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montolier-de-Perell\u00f3s-scaled.jpg"
+    },
+    {
+      "nombre": "For\u00e7a Real",
+      "lat": 42.7269198717,
+      "lang": 2.70022626173,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/forca-real/",
+      "comarca": "Rossell\u00f3",
+      "alt": 507,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/For\u00e7a-Real_2-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc Dormidor",
+      "lat": 42.71035,
+      "lang": 2.26602,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-dormidor/",
+      "comarca": "Conflent",
+      "alt": 1843,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-Dormidor.jpg"
+    },
+    {
+      "nombre": "Roca Gelera",
+      "lat": 42.6851098962,
+      "lang": 2.43770677452,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roca-gelera/",
+      "comarca": "Conflent",
+      "alt": 1110,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roca-Gelera_2-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de lEstella",
+      "lat": 42.5146828414,
+      "lang": 2.55355631584,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-lestella/",
+      "comarca": "Conflent",
+      "alt": 1778,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-lEstella_2-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de les Tres Esteles",
+      "lat": 42.508771955,
+      "lang": 2.32321679045,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-tres-esteles/",
+      "comarca": "Conflent",
+      "alt": 2099,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-les-Tres-Esteles_3-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de Gallin\u00e0s",
+      "lat": 42.4777793254,
+      "lang": 2.2153093651,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-gallinas/",
+      "comarca": "Conflent",
+      "alt": 2624,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-Gallin\u00e0s_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Rac\u00f3 Gros",
+      "lat": 42.4322202523,
+      "lang": 2.1871139362,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-raco-gros/",
+      "comarca": "Conflent",
+      "alt": 2782,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Rac\u00f3-Gros_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de lInfern",
+      "lat": 42.4239313658,
+      "lang": 2.21373246579,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-linfern/",
+      "comarca": "Conflent",
+      "alt": 2870,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-lInfern-scaled.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 de Bell-lloc",
+      "lat": 42.4832775498,
+      "lang": 1.92218442466,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-bell-lloc/",
+      "comarca": "Cerdanya Nord",
+      "alt": 1702,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-de-Bell-Lloc_2-scaled.jpg"
+    },
+    {
+      "nombre": "Roc del Boc",
+      "lat": 42.4463355484,
+      "lang": 2.15515749301,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roc-del-boc/",
+      "comarca": "Cerdanya Nord",
+      "alt": 2774,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roc-del-Boc_2-scaled.jpg"
+    },
+    {
+      "nombre": "Puig Pedr\u00f3s de Lan\u00f3s",
+      "lat": 42.5899516878,
+      "lang": 1.87369347306,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-pedros-de-lanos/",
+      "comarca": "Cerdanya Nord",
+      "alt": 2842,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Pedros-de-Lanos.jpg"
+    },
+    {
+      "nombre": "Puig de la Grava",
+      "lat": 42.6048517182,
+      "lang": 1.93347627782,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-grava/",
+      "comarca": "Cerdanya Nord",
+      "alt": 2671,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-la-Grava.jpg"
+    },
+    {
+      "nombre": "Pic dels Moros",
+      "lat": 42.5131817626,
+      "lang": 1.99099502046,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-dels-moros/",
+      "comarca": "Cerdanya Nord",
+      "alt": 2137,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-dels-Moros_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Font Freda",
+      "lat": 42.5363510575,
+      "lang": 1.7949934141,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-font-freda/",
+      "comarca": "Cerdanya Nord",
+      "alt": 2738,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Font-Freda-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Baixollada",
+      "lat": 42.6611074097,
+      "lang": 2.00222336016,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-baixollada/",
+      "comarca": "Capcir",
+      "alt": 2546,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Baixollada.jpg"
+    },
+    {
+      "nombre": "Tosa del Braibal",
+      "lat": 42.5029747118,
+      "lang": 1.59850483358,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tosa-del-braibal/",
+      "comarca": "Andorra",
+      "alt": 2657,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossa-de-Braibal-scaled.jpg"
+    },
+    {
+      "nombre": "Roc Mel\u00e9",
+      "lat": 42.587786779,
+      "lang": 1.74181711408,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roc-mele/",
+      "comarca": "Andorra",
+      "alt": 2811,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roc-Mel\u00e9_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic dEscobes",
+      "lat": 42.6091788805,
+      "lang": 1.73563223829,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-descobes/",
+      "comarca": "Andorra",
+      "alt": 2780,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-dEscobes_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Font Blanca",
+      "lat": 42.6497189222,
+      "lang": 1.53440090753,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-font-blanca/",
+      "comarca": "Andorra",
+      "alt": 2903,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Font-Blanca_3.jpg"
+    },
+    {
+      "nombre": "Pic de Cataperd\u00eds",
+      "lat": 42.6148182182,
+      "lang": 1.4774275311,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-cataperdis/",
+      "comarca": "Andorra",
+      "alt": 2805,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Cataperd\u00eds-scaled.jpg"
+    },
+    {
+      "nombre": "Montmal\u00fas",
+      "lat": 42.5089260625,
+      "lang": 1.68656940099,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montmalus/",
+      "comarca": "Andorra",
+      "alt": 2781,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montmalus.jpg"
+    },
+    {
+      "nombre": "Alt del Griu",
+      "lat": 42.5254810178,
+      "lang": 1.6511339106,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/alt-del-griu/",
+      "comarca": "Andorra",
+      "alt": 2874,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Alt-del-Griu_2-scaled.jpg"
+    },
+    {
+      "nombre": "Alt de Juclar",
+      "lat": 42.6101062378,
+      "lang": 1.70418348644,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/alt-de-juclar/",
+      "comarca": "Andorra",
+      "alt": 2588,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Alt-de-Juclar-scaled.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 del Samon",
+      "lat": 41.7426763307,
+      "lang": 2.36552500233,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-del-samon/",
+      "comarca": "Vall\u00e8s Oriental",
+      "alt": 1273,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-del-Samon.jpg"
+    },
+    {
+      "nombre": "Puiggraci\u00f3s",
+      "lat": 41.7026698984,
+      "lang": 2.24118699931,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puiggracios/",
+      "comarca": "Vall\u00e8s Oriental",
+      "alt": 808,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puiggraci\u00f3s-scaled.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 del Ros",
+      "lat": 41.5763385712,
+      "lang": 1.93396849589,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-del-ros/",
+      "comarca": "Vall\u00e8s Occidental",
+      "alt": 635,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-del-Ros.jpg"
+    },
+    {
+      "nombre": "Tuc Gran dera Sendrosa",
+      "lat": 42.6239250652,
+      "lang": 0.946848989161,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-gran-dera-sendrosa/",
+      "comarca": "Val d'Aran",
+      "alt": 2703,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-Gran-dera-Sendrosa_2-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc deth Plan deth Ome (Vacanera)",
+      "lat": 42.8461319437,
+      "lang": 0.675123685097,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-deth-plan-deth-ome-vacanera/",
+      "comarca": "Val d'Aran",
+      "alt": 2194,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-deth-Plan-deth-Ome-Vacanera-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc dera Pincela",
+      "lat": 42.7428629004,
+      "lang": 0.875683713178,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-dera-pincela/",
+      "comarca": "Val d'Aran",
+      "alt": 2536,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-dera-Pincela-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc dEra Entecada",
+      "lat": 42.7180741367,
+      "lang": 0.696960900078,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-dera-entecada/",
+      "comarca": "Val d'Aran",
+      "alt": 2269,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-dera-Entecada-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc de Barlongu\u00e8ra",
+      "lat": 42.7885699239,
+      "lang": 1.0098439898,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-barlonguera/",
+      "comarca": "Val d'Aran",
+      "alt": 2802,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-de-Barlonguera-2-scaled.jpg"
+    },
+    {
+      "nombre": "Tossau de Mar",
+      "lat": 42.63029682,
+      "lang": 0.82896879,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossau-de-mar/",
+      "comarca": "Val d'Aran",
+      "alt": 2750,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossau-de-Mar_3-scaled.jpg"
+    },
+    {
+      "nombre": "Malh des Pois (la Forcanada)",
+      "lat": 42.6432185354,
+      "lang": 0.705628888897,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/malh-des-pois-la-forcanada/",
+      "comarca": "Val d'Aran",
+      "alt": 2883,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Malh-des-Pois-la-Forcanada.jpg"
+    },
+    {
+      "nombre": "Punta Redona",
+      "lat": 41.0588485404,
+      "lang": 0.500927909963,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/punta-redona/",
+      "comarca": "Terra Alta",
+      "alt": 659,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Punta-Redona.jpg"
+    },
+    {
+      "nombre": "Puig Cavaller",
+      "lat": 41.0277617786,
+      "lang": 0.437628283448,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-cavaller/",
+      "comarca": "Terra Alta",
+      "alt": 706,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Cavaller-scaled.jpg"
+    },
+    {
+      "nombre": "Serra de Pin\u00f3s",
+      "lat": 41.8335886088,
+      "lang": 1.52894123151,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/serra-de-pinos/",
+      "comarca": "Solson\u00e8s",
+      "alt": 928,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Serra-de-Pin\u00f3s.jpg"
+    },
+    {
+      "nombre": "Puig Sobir\u00e0",
+      "lat": 42.1340410525,
+      "lang": 1.49765053388,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-sobira/",
+      "comarca": "Solson\u00e8s",
+      "alt": 1938,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Sobira.jpg"
+    },
+    {
+      "nombre": "Sant Benet",
+      "lat": 41.9487368657,
+      "lang": 2.51350177313,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-benet/",
+      "comarca": "Selva",
+      "alt": 1150,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Benet.jpg"
+    },
+    {
+      "nombre": "LArgimon",
+      "lat": 41.8306607507,
+      "lang": 2.63598108836,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/largimon/",
+      "comarca": "Selva",
+      "alt": 465,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/LArgimon.jpg"
+    },
+    {
+      "nombre": "El Far",
+      "lat": 42.0208408193,
+      "lang": 2.5366387097,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-far/",
+      "comarca": "Selva",
+      "alt": 1124,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Far.jpg"
+    },
+    {
+      "nombre": "Tossal de la Moradilla",
+      "lat": 41.619530636,
+      "lang": 0.709795465691,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-la-moradilla/",
+      "comarca": "Segri\u00e0",
+      "alt": 243,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-de-la-Moradilla_2-scaled.jpg"
+    },
+    {
+      "nombre": "Tossal de Sur\u00f3",
+      "lat": 41.5727833358,
+      "lang": 1.3049206803,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-suro/",
+      "comarca": "Segarra",
+      "alt": 828,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-de-Sur\u00f3-scaled.jpg"
+    },
+    {
+      "nombre": "Torreneules",
+      "lat": 42.3908750324,
+      "lang": 2.19620075069,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/torreneules/",
+      "comarca": "Ripoll\u00e8s",
+      "alt": 2713,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Torreneules-scaled.jpg"
+    },
+    {
+      "nombre": "Puig Estela",
+      "lat": 42.2843006575,
+      "lang": 2.2539920533,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-estela/",
+      "comarca": "Ripoll\u00e8s",
+      "alt": 2013,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Estela_2-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de les Agudes",
+      "lat": 42.3633808585,
+      "lang": 2.31874391776,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-agudes/",
+      "comarca": "Ripoll\u00e8s",
+      "alt": 1976,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-les-Agudes_2-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de Bestrec\u00e0",
+      "lat": 42.2943132206,
+      "lang": 2.51542425463,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-bestreca/",
+      "comarca": "Ripoll\u00e8s",
+      "alt": 1056,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-Bestrec\u00e0-scaled.jpg"
+    },
+    {
+      "nombre": "Puig Cornador",
+      "lat": 42.1397374015,
+      "lang": 2.10833614168,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-cornador/",
+      "comarca": "Ripoll\u00e8s",
+      "alt": 1229,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Cornador.jpg"
+    },
+    {
+      "nombre": "Noufonts",
+      "lat": 42.4246523941,
+      "lang": 2.16788405017,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/noufonts/",
+      "comarca": "Conflent, Ripoll\u00e8s",
+      "alt": 2861,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Noufonts-scaled.jpg"
+    },
+    {
+      "nombre": "Les Borregues",
+      "lat": 42.3963220756,
+      "lang": 2.2477214416,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/les-borregues/",
+      "comarca": "Ripoll\u00e8s",
+      "alt": 2693,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Les-Borregues.jpg"
+    },
+    {
+      "nombre": "Coll de Pins",
+      "lat": 40.9874138161,
+      "lang": 0.593574351565,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/coll-de-pins/",
+      "comarca": "Ribera d'Ebre",
+      "alt": 500,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Coll-de-Pins-scaled.jpg"
+    },
+    {
+      "nombre": "Montalt (punta nord)",
+      "lat": 41.0683345646,
+      "lang": 0.803218722587,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montalt-punta-nord/",
+      "comarca": "Priorat, Ribera d'Ebre",
+      "alt": 766,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montalt-Punta-Nord_3-scaled.jpg"
+    },
+    {
+      "nombre": "La Cogulla (Montsant)",
+      "lat": 41.2775256311,
+      "lang": 0.805672027137,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-cogulla-montsant/",
+      "comarca": "Priorat",
+      "alt": 1062,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Cogulla_2-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc de Marimanya",
+      "lat": 42.709242624,
+      "lang": 1.01233231492,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-marimanya/",
+      "comarca": "Pallars Sobir\u00e0, Val d'Aran",
+      "alt": 2679,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-de-Marimanya-scaled.jpg"
+    },
+    {
+      "nombre": "Pics de Bassiero",
+      "lat": 42.6066752263,
+      "lang": 0.995373452004,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pics-de-bassiero/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2903,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pics-de-Bassiero-Occ-scaled.jpg"
+    },
+    {
+      "nombre": "Pica Roja",
+      "lat": 42.624996751,
+      "lang": 1.42041450706,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pica-roja/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2903,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pica-Roja.jpg"
+    },
+    {
+      "nombre": "Pic de Pil\u00e0s",
+      "lat": 42.6828291223,
+      "lang": 1.13150733611,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-pilas/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2656,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Pil\u00e0s_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Medacorba",
+      "lat": 42.603724,
+      "lang": 1.441992,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-medacorba/",
+      "comarca": "Andorra, Pallars Sobir\u00e0",
+      "alt": 2915,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Medacorba-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de M\u00e0niga",
+      "lat": 42.5057348985,
+      "lang": 1.32883919585,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-maniga/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2517,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-M\u00e0niga-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Clavera",
+      "lat": 42.7877860028,
+      "lang": 1.07672157012,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-clavera/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2721,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Clavera_3-scaled.jpg"
+    },
+    {
+      "nombre": "Montcaubo (lo Calbo)",
+      "lat": 42.5986630987,
+      "lang": 1.17941713732,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montcaubo-lo-calbo/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2291,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montcaubo-scaled.jpg"
+    },
+    {
+      "nombre": "Gran Encantat",
+      "lat": 42.5684086401,
+      "lang": 1.01483782051,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/gran-encantat/",
+      "comarca": "Pallars Sobir\u00e0",
+      "alt": 2749,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Gran-Encantat.jpg"
+    },
+    {
+      "nombre": "Roc de Sant Avent\u00ed",
+      "lat": 42.3072328376,
+      "lang": 0.974246319524,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roc-de-sant-aventi/",
+      "comarca": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+      "alt": 1480,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roc-de-Sant-Aventi-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Subenuix",
+      "lat": 42.5549470732,
+      "lang": 0.979380978448,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-subenuix/",
+      "comarca": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+      "alt": 2950,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Subenuix_2.jpg"
+    },
+    {
+      "nombre": "Pic de Fili\u00e0 (Tossal de Paiasso)",
+      "lat": 42.4729420398,
+      "lang": 0.930322794098,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-filia-tossal-de-paiasso/",
+      "comarca": "Pallars Juss\u00e0",
+      "alt": 2772,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Filli\u00e0_2-Tossal-de-Paiasso-scaled.jpg"
+    },
+    {
+      "nombre": "Montllobar",
+      "lat": 42.1465952076,
+      "lang": 0.797767345034,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montllobar/",
+      "comarca": "Pallars Juss\u00e0",
+      "alt": 1104,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montllobar-scaled.jpg"
+    },
+    {
+      "nombre": "Gallinova",
+      "lat": 42.1847230594,
+      "lang": 1.07808782096,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/gallinova/",
+      "comarca": "Pallars Juss\u00e0",
+      "alt": 1687,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Gallinova_3-scaled.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 de Bellver",
+      "lat": 41.8471462109,
+      "lang": 2.17154371646,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-bellver/",
+      "comarca": "Moian\u00e8s",
+      "alt": 1045,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-de-Bellver_2-scaled.jpg"
+    },
+    {
+      "nombre": "Santa Magdalena de Cambrils",
+      "lat": 42.1689910199,
+      "lang": 2.34026503464,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/santa-magdalena-de-cambrils/",
+      "comarca": "Osona, Ripoll\u00e8s",
+      "alt": 1547,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Santa-Magdalena-de-Cambrils-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de les \u00c0ligues",
+      "lat": 42.1090151344,
+      "lang": 2.34931774822,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-aligues/",
+      "comarca": "Osona",
+      "alt": 1344,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-les-\u00c0ligues-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de la For\u00e7a",
+      "lat": 41.9810070598,
+      "lang": 2.38898447593,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-forca/",
+      "comarca": "Osona",
+      "alt": 740,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-la-For\u00e7a_2.jpg"
+    },
+    {
+      "nombre": "LEnclusa",
+      "lat": 41.8707878226,
+      "lang": 2.32093889931,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/lenclusa/",
+      "comarca": "Osona",
+      "alt": 867,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/LEnclusa_2-scaled.jpg"
+    },
+    {
+      "nombre": "Els Munts",
+      "lat": 42.0787263425,
+      "lang": 2.15328121534,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/els-munts/",
+      "comarca": "Osona",
+      "alt": 1057,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Els-Munts-scaled.jpg"
+    },
+    {
+      "nombre": "Roca Roja",
+      "lat": 42.0722101705,
+      "lang": 1.10016255867,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roca-roja/",
+      "comarca": "Noguera, Pallars Juss\u00e0",
+      "alt": 1239,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roca-Roja-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de Mill\u00e0",
+      "lat": 42.001724505,
+      "lang": 0.672191437353,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-milla/",
+      "comarca": "Noguera",
+      "alt": 1025,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-Mill\u00e0-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de Grial\u00f3",
+      "lat": 41.9017488183,
+      "lang": 1.10878212966,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-grialo/",
+      "comarca": "Noguera",
+      "alt": 667,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-Grial\u00f3_2-scaled.jpg"
+    },
+    {
+      "nombre": "Montmagastre",
+      "lat": 41.9765577307,
+      "lang": 1.12875357473,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montmagastre/",
+      "comarca": "Noguera",
+      "alt": 762,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montmagastre_2.jpg"
+    },
+    {
+      "nombre": "Los Picons",
+      "lat": 41.9258368303,
+      "lang": 0.641572525273,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/los-picons/",
+      "comarca": "Noguera",
+      "alt": 951,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Los-Picons-scaled.jpg"
+    },
+    {
+      "nombre": "El Negrell",
+      "lat": 40.7341570377,
+      "lang": 0.227329062732,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-negrell/",
+      "comarca": "Montsi\u00e0",
+      "alt": 1345,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Negrell.jpg"
+    },
+    {
+      "nombre": "El Montsianell",
+      "lat": 40.6830235057,
+      "lang": 0.555600233824,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-montsianell/",
+      "comarca": "Montsi\u00e0",
+      "alt": 293,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Montsianell.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 dOnofre Arnau",
+      "lat": 41.5545820258,
+      "lang": 2.46903089064,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-donofre-arnau/",
+      "comarca": "Maresme",
+      "alt": 131,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-dOnofre-Arnau-scaled.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 den Galzeran o den Mates",
+      "lat": 41.5046857089,
+      "lang": 2.26664062157,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-den-galzeran-o-den-mates/",
+      "comarca": "Maresme, Vall\u00e8s Oriental",
+      "alt": 484,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-de-Galzeran-scaled.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 de Montgat",
+      "lat": 41.4658949776,
+      "lang": 2.27868166694,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-montgat/",
+      "comarca": "Maresme",
+      "alt": 40,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-de-Montgat.jpg"
+    },
+    {
+      "nombre": "Pedracastell o Creu de Canet",
+      "lat": 41.6088812679,
+      "lang": 2.57368270577,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pedracastell-o-creu-de-canet/",
+      "comarca": "Maresme",
+      "alt": 287,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pedracastell-scaled.jpg"
+    },
+    {
+      "nombre": "Montbarbat",
+      "lat": 41.7355101863,
+      "lang": 2.7766586707,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montbarbat/",
+      "comarca": "Maresme, Selva",
+      "alt": 328,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montbarbat_2-scaled.jpg"
+    },
+    {
+      "nombre": "Puig Cadiretes",
+      "lat": 41.7573307749,
+      "lang": 2.92821015443,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-cadiretes/",
+      "comarca": "Giron\u00e8s, Selva",
+      "alt": 519,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Cadiretes-scaled.jpg"
+    },
+    {
+      "nombre": "Montigalar",
+      "lat": 41.9630547913,
+      "lang": 2.92463692226,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montigalar/",
+      "comarca": "Giron\u00e8s",
+      "alt": 464,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montigalar.jpg"
+    },
+    {
+      "nombre": "Volc\u00e0 del Croscat",
+      "lat": 42.1539906034,
+      "lang": 2.53606815969,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/volca-del-croscat/",
+      "comarca": "Garrotxa",
+      "alt": 789,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Volc\u00e0-del-Croscat_2-scaled.jpg"
+    },
+    {
+      "nombre": "Sant Roc",
+      "lat": 42.0174863364,
+      "lang": 2.66189985111,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-roc/",
+      "comarca": "Garrotxa, Giron\u00e8s, Selva",
+      "alt": 598,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Roc.jpg"
+    },
+    {
+      "nombre": "Puigsallan\u00e7a",
+      "lat": 42.1150682972,
+      "lang": 2.58147210612,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puigsallanca/",
+      "comarca": "Garrotxa",
+      "alt": 1027,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puigsallan\u00e7a-scaled.jpg"
+    },
+    {
+      "nombre": "Montmajor",
+      "lat": 42.2687834061,
+      "lang": 2.48304982626,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montmajor/",
+      "comarca": "Garrotxa",
+      "alt": 1074,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montmajor.jpg"
+    },
+    {
+      "nombre": "Tossal de les Viudes",
+      "lat": 42.1147525661,
+      "lang": 1.65922632604,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-les-viudes/",
+      "comarca": "Bergued\u00e0, Solson\u00e8s",
+      "alt": 1379,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tossal-de-les-Viudes_2-scaled.jpg"
+    },
+    {
+      "nombre": "Sobrepuny",
+      "lat": 42.1677248606,
+      "lang": 1.91070593443,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sobrepuny/",
+      "comarca": "Bergued\u00e0",
+      "alt": 1653,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sobrepuny_2-scaled.jpg"
+    },
+    {
+      "nombre": "Sant Marc de Broc\u00e0",
+      "lat": 42.2649312024,
+      "lang": 1.89873987298,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/sant-marc-de-broca/",
+      "comarca": "Bergued\u00e0",
+      "alt": 1611,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Sant-Marc-de-Broc\u00e0-scaled.jpg"
+    },
+    {
+      "nombre": "Salga Aguda",
+      "lat": 42.1192540287,
+      "lang": 1.95140868336,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/salga-aguda/",
+      "comarca": "Bergued\u00e0",
+      "alt": 1172,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Salga-Aguda-2-scaled.jpg"
+    },
+    {
+      "nombre": "Puigllan\u00e7ada",
+      "lat": 42.300483377,
+      "lang": 1.93553484457,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puigllancada/",
+      "comarca": "Bergued\u00e0",
+      "alt": 2409,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puigllan\u00e7ada-scaled.jpg"
+    },
+    {
+      "nombre": "Pedr\u00f3 de Tubau",
+      "lat": 42.2201958619,
+      "lang": 2.04956708035,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pedro-de-tubau/",
+      "comarca": "Bergued\u00e0, Ripoll\u00e8s",
+      "alt": 1543,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pedr\u00f3-de-Tubau-1-scaled.jpg"
+    },
+    {
+      "nombre": "Els Tossals",
+      "lat": 42.0892489918,
+      "lang": 1.72742659445,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/els-tossals/",
+      "comarca": "Bergued\u00e0",
+      "alt": 1525,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Els-Tossals-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de Sant Antoni",
+      "lat": 41.2437100625,
+      "lang": 1.47433479322,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-antoni/",
+      "comarca": "Baix Pened\u00e8s",
+      "alt": 409,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-Sant-Antoni.jpg"
+    },
+    {
+      "nombre": "Puig de la Cova",
+      "lat": 41.3151038048,
+      "lang": 1.47510807421,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cova/",
+      "comarca": "Baix Pened\u00e8s",
+      "alt": 672,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-la-Cova.jpg"
+    },
+    {
+      "nombre": "Puig Madrona",
+      "lat": 41.4512983754,
+      "lang": 2.02409766978,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-madrona/",
+      "comarca": "Baix Llobregat, Vall\u00e8s Occidental",
+      "alt": 341,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Madrona-scaled.jpg"
+    },
+    {
+      "nombre": "Puig dOlorda",
+      "lat": 41.4121939529,
+      "lang": 2.05499061251,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-dolorda/",
+      "comarca": "Baix Llobregat, Barcelon\u00e8s",
+      "alt": 450,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-dOlorda-scaled.jpg"
+    },
+    {
+      "nombre": "Puig Cendr\u00f3s",
+      "lat": 41.5756360735,
+      "lang": 1.89299280596,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-cendros/",
+      "comarca": "Baix Llobregat",
+      "alt": 499,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Cendros.jpg"
+    },
+    {
+      "nombre": "Miranda de Santa Magdalena",
+      "lat": 41.5884059331,
+      "lang": 1.82647684649,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/miranda-de-santa-magdalena/",
+      "comarca": "Baix Llobregat",
+      "alt": 1132,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Miranda-de-Santa-Magdalena.jpg"
+    },
+    {
+      "nombre": "Quermany Gros",
+      "lat": 41.9603145487,
+      "lang": 3.17009964673,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/quermany-gros/",
+      "comarca": "Baix Empord\u00e0",
+      "alt": 228,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Quermany-Gros.jpg"
+    },
+    {
+      "nombre": "Puig Gros",
+      "lat": 41.7750249885,
+      "lang": 2.99796651839,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-gros/",
+      "comarca": "Baix Empord\u00e0",
+      "alt": 325,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Gros.jpg"
+    },
+    {
+      "nombre": "Puig dArques",
+      "lat": 41.8887283793,
+      "lang": 2.99429857701,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-darques/",
+      "comarca": "Baix Empord\u00e0",
+      "alt": 533,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-dArques-scaled.jpg"
+    },
+    {
+      "nombre": "Montclar",
+      "lat": 41.7886622761,
+      "lang": 2.95619265406,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montclar/",
+      "comarca": "Baix Empord\u00e0",
+      "alt": 401,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montclar_2-scaled.jpg"
+    },
+    {
+      "nombre": "Morral del Cabrafeixet",
+      "lat": 40.898477,
+      "lang": 0.625154,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/morral-del-cabrafeixet/",
+      "comarca": "Baix Ebre",
+      "alt": 753,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Morral-de-Cabrafeixet.jpg"
+    },
+    {
+      "nombre": "LEspina",
+      "lat": 40.8793690775,
+      "lang": 0.360899310112,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/lespina/",
+      "comarca": "Baix Ebre, Terra Alta",
+      "alt": 1181,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/LEspina.jpg"
+    },
+    {
+      "nombre": "La Coscollosa",
+      "lat": 40.9023779146,
+      "lang": 0.413558589612,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-coscollosa/",
+      "comarca": "Baix Ebre",
+      "alt": 879,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Coscollosa_2.jpg"
+    },
+    {
+      "nombre": "Puig Pelat",
+      "lat": 41.2663110481,
+      "lang": 1.05450380794,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-pelat/",
+      "comarca": "Baix Camp",
+      "alt": 1076,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Pelat_2-1-scaled.jpg"
+    },
+    {
+      "nombre": "Puig den Cama",
+      "lat": 41.2202617175,
+      "lang": 1.09406719048,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-den-cama/",
+      "comarca": "Baix Camp",
+      "alt": 717,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-den-Cama.jpg"
+    },
+    {
+      "nombre": "Puig de Gallicant",
+      "lat": 41.2495015167,
+      "lang": 0.960719737495,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-gallicant/",
+      "comarca": "Baix Camp",
+      "alt": 1010,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-Gallicant.jpg"
+    },
+    {
+      "nombre": "Picorandan",
+      "lat": 41.2878857333,
+      "lang": 1.01719022482,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/picorandan/",
+      "comarca": "Baix Camp",
+      "alt": 991,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Picorandan.jpg"
+    },
+    {
+      "nombre": "Miranda de Puigcerver",
+      "lat": 41.1935878726,
+      "lang": 0.931584555592,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/miranda-de-puigcerver/",
+      "comarca": "Baix Camp",
+      "alt": 834,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Miranda-de-Puigcerver_3-scaled.jpg"
+    },
+    {
+      "nombre": "El Torn",
+      "lat": 40.9657461416,
+      "lang": 0.883354759262,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-torn/",
+      "comarca": "Baix Camp",
+      "alt": 152,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Torn.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 de lEscletxa",
+      "lat": 41.6287105203,
+      "lang": 1.88694712824,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-lescletxa/",
+      "comarca": "Bages",
+      "alt": 447,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-de-lEscletxa-scaled.jpg"
+    },
+    {
+      "nombre": "Tur\u00f3 de la Torre o de Castellnou",
+      "lat": 41.8509216559,
+      "lang": 1.8300988474,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-la-torre-o-de-castellnou/",
+      "comarca": "Bages",
+      "alt": 624,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tur\u00f3-de-la-Torre_2-scaled.jpg"
+    },
+    {
+      "nombre": "Roca Sereny",
+      "lat": 41.6945024649,
+      "lang": 2.01789428863,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roca-sereny/",
+      "comarca": "Bages, Vall\u00e8s Occidental",
+      "alt": 804,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roca-Sereny.jpg"
+    },
+    {
+      "nombre": "Pujol de la Mata",
+      "lat": 41.6821512175,
+      "lang": 1.98442838996,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pujol-de-la-mata/",
+      "comarca": "Bages",
+      "alt": 770,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pujol-de-la-Mata.jpg"
+    },
+    {
+      "nombre": "Puigsoler",
+      "lat": 41.6678850742,
+      "lang": 1.89285524584,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puigsoler/",
+      "comarca": "Bages",
+      "alt": 524,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puigsoler.jpg"
+    },
+    {
+      "nombre": "Cogull\u00f3 de Cal Torre",
+      "lat": 41.6874716091,
+      "lang": 1.68642459544,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/cogullo-de-cal-torre/",
+      "comarca": "Bages",
+      "alt": 881,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Cogullo-de-Cal-Torre.jpg"
+    },
+    {
+      "nombre": "Torre Alta (Castell Ferran)",
+      "lat": 41.6112068212,
+      "lang": 1.76328314465,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/torre-alta-castell-ferran/",
+      "comarca": "Anoia",
+      "alt": 842,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Torre-Alta.jpg"
+    },
+    {
+      "nombre": "Puig dAguilera",
+      "lat": 41.6047885186,
+      "lang": 1.67081069484,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-daguilera/",
+      "comarca": "Anoia",
+      "alt": 626,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-dAguilera-scaled.jpg"
+    },
+    {
+      "nombre": "Puig Castellar (serra dAncosa)",
+      "lat": 41.4483303855,
+      "lang": 1.51647754872,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-castellar-serra-dancosa/",
+      "comarca": "Anoia",
+      "alt": 943,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-Castellar-Ancosa-scaled.jpg"
+    },
+    {
+      "nombre": "Miranda dels Ecos",
+      "lat": 41.604409941,
+      "lang": 1.8062062446,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/miranda-dels-ecos/",
+      "comarca": "Anoia",
+      "alt": 1223,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Miranda-dels-Ecos.jpg"
+    },
+    {
+      "nombre": "Grony de Miralles",
+      "lat": 41.5167025621,
+      "lang": 1.49218341096,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/grony-de-miralles/",
+      "comarca": "Anoia",
+      "alt": 866,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Grony-de-Miralles-scaled.jpg"
+    },
+    {
+      "nombre": "Castell de Boixadors",
+      "lat": 41.7706425868,
+      "lang": 1.57477558985,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-boixadors/",
+      "comarca": "Anoia",
+      "alt": 848,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Castell-de-Boixadors.jpg"
+    },
+    {
+      "nombre": "Tuc de Llu\u00e7\u00e0",
+      "lat": 42.6102917642,
+      "lang": 0.901177564183,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-lluca/",
+      "comarca": "Alta Ribagor\u00e7a, Val d'Aran",
+      "alt": 2778,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-de-Llu\u00e7\u00e0-scaled.jpg"
+    },
+    {
+      "nombre": "Tuc de la Comamarja",
+      "lat": 42.5264278782,
+      "lang": 0.878311634743,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-comamarja/",
+      "comarca": "Alta Ribagor\u00e7a",
+      "alt": 2562,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Tuc-de-Comamarja.jpg"
+    },
+    {
+      "nombre": "Punta dHarl\u00e9",
+      "lat": 42.6104008216,
+      "lang": 0.842595085439,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/punta-dharle/",
+      "comarca": "Alta Ribagor\u00e7a, Val d'Aran",
+      "alt": 2885,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Punta-dHarl\u00e9_2-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de la Pala Alta de Sarrad\u00e9",
+      "lat": 42.5747132507,
+      "lang": 0.890942673958,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-la-pala-alta-de-sarrade/",
+      "comarca": "Alta Ribagor\u00e7a",
+      "alt": 2983,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-la-Pala-Alta-de-Sarrad\u00e9.jpg"
+    },
+    {
+      "nombre": "La Faiada",
+      "lat": 42.3750354872,
+      "lang": 0.77512806113,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-faiada/",
+      "comarca": "Alta Ribagor\u00e7a, Pallars Juss\u00e0",
+      "alt": 1699,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Faiada.jpg"
+    },
+    {
+      "nombre": "Gran Pic del Pess\u00f3",
+      "lat": 42.5094903448,
+      "lang": 0.924102242387,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/gran-pic-del-pesso/",
+      "comarca": "Alta Ribagor\u00e7a, Pallars Juss\u00e0",
+      "alt": 2894,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Gran-Pic-del-Pess\u00f3-scaled.jpg"
+    },
+    {
+      "nombre": "Besiberri Nord",
+      "lat": 42.6052569802,
+      "lang": 0.826303718072,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/besiberri-nord/",
+      "comarca": "Alta Ribagor\u00e7a, Val d'Aran",
+      "alt": 3008,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Besiberri-Nord-scaled.jpg"
+    },
+    {
+      "nombre": "Torreta del Cad\u00ed",
+      "lat": 42.2870741235,
+      "lang": 1.58419812657,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/torreta-del-cadi/",
+      "comarca": "Alt Urgell",
+      "alt": 2562,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Torreta-del-Cad\u00ed_3-scaled.jpg"
+    },
+    {
+      "nombre": "Roc de Galliner",
+      "lat": 42.1980678653,
+      "lang": 1.41096353508,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roc-de-galliner/",
+      "comarca": "Alt Urgell",
+      "alt": 1630,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roc-Galliner-scaled.jpg"
+    },
+    {
+      "nombre": "Roc Bene\u00efdor",
+      "lat": 42.3712181404,
+      "lang": 1.56049672773,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/roc-beneidor/",
+      "comarca": "Alt Urgell",
+      "alt": 1681,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Roc-Beneidor.jpg"
+    },
+    {
+      "nombre": "Pedr\u00f3 dels Quatre Batlles",
+      "lat": 42.1847955583,
+      "lang": 1.5209102343,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pedro-dels-quatre-batlles/",
+      "comarca": "Alt Urgell, Solson\u00e8s",
+      "alt": 2387,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pedr\u00f3-dels-Quatre-Batlles_2.jpg"
+    },
+    {
+      "nombre": "Mirador del Pla de Llet",
+      "lat": 42.4045530362,
+      "lang": 1.6329485067,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/mirador-del-pla-de-llet/",
+      "comarca": "Alt Urgell, Cerdanya",
+      "alt": 2141,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Mirador-del-Pla-de-Llet_2-scaled.jpg"
+    },
+    {
+      "nombre": "Les Piques",
+      "lat": 42.3209657507,
+      "lang": 1.17584546118,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/les-piques/",
+      "comarca": "Alt Urgell",
+      "alt": 1969,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Les-Piques_3-scaled.jpg"
+    },
+    {
+      "nombre": "El Cadinell",
+      "lat": 42.2643934199,
+      "lang": 1.59782471728,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/el-cadinell/",
+      "comarca": "Alt Urgell",
+      "alt": 2113,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Cadinell_2-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de la Mola",
+      "lat": 41.3193219621,
+      "lang": 1.84785320744,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-mola/",
+      "comarca": "Alt Pened\u00e8s, Baix Llobregat, Garraf",
+      "alt": 534,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-la-Mola.jpg"
+    },
+    {
+      "nombre": "Puig dAgulles",
+      "lat": 41.4080777208,
+      "lang": 1.88497858406,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-dagulles/",
+      "comarca": "Alt Pened\u00e8s, Baix Llobregat",
+      "alt": 653,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-dAgulles-scaled.jpg"
+    },
+    {
+      "nombre": "Montau",
+      "lat": 41.3458636248,
+      "lang": 1.88500083001,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montau/",
+      "comarca": "Alt Pened\u00e8s, Baix Llobregat",
+      "alt": 658,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montau_2.jpg"
+    },
+    {
+      "nombre": "Querroig",
+      "lat": 42.4382628983,
+      "lang": 3.12092853859,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/querroig/",
+      "comarca": "Alt Empord\u00e0, Rossell\u00f3",
+      "alt": 672,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Querroig_3-scaled.jpg"
+    },
+    {
+      "nombre": "Puig dEsquers",
+      "lat": 42.3926797402,
+      "lang": 3.09635933543,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-desquers/",
+      "comarca": "Alt Empord\u00e0",
+      "alt": 606,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-dEsquers-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de les Bruixes",
+      "lat": 42.3244930629,
+      "lang": 2.55549817266,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-bruixes/",
+      "comarca": "Alt Empord\u00e0, Garrotxa",
+      "alt": 1391,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-les-Bruixes_3-scaled.jpg"
+    },
+    {
+      "nombre": "Pic de Sallafort",
+      "lat": 42.4734705922,
+      "lang": 3.03804096524,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-sallafort/",
+      "comarca": "Alt Empord\u00e0, Rossell\u00f3",
+      "alt": 994,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Pic-de-Sallafort-scaled.jpg"
+    },
+    {
+      "nombre": "Puig de la Gavarra",
+      "lat": 42.3607261639,
+      "lang": 2.69684853147,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-gavarra/",
+      "comarca": "Alt Empord\u00e0",
+      "alt": 1057,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puig-de-la-Gavarra_2.jpg"
+    },
+    {
+      "nombre": "Puigcabrer",
+      "lat": 41.3153344091,
+      "lang": 1.19129326727,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/puigcabrer/",
+      "comarca": "Alt Camp",
+      "alt": 524,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Puigcabrer-scaled.jpg"
+    },
+    {
+      "nombre": "Montagut dAncosa",
+      "lat": 41.4068776962,
+      "lang": 1.42226158803,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/montagut-dancosa/",
+      "comarca": "Alt Camp",
+      "alt": 963,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/Montagut-dAncosa.jpg"
+    },
+    {
+      "nombre": "La Cogulla",
+      "lat": 41.3488047979,
+      "lang": 1.22482709087,
+      "url": "https://www.feec.cat/activitats/100-cims/cim/la-cogulla/",
+      "comarca": "Alt Camp, Conca de Barber\u00e0",
+      "alt": 786,
+      "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Cogulla-scaled.jpg"
+    }
+  ]
+}

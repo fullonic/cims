@@ -7,6 +7,8 @@ from feec_cim_data import (
     get_essential_cim_list,
     list_to_dict,
     complementary_info,
+    create_cims_list,
+    merge_information,
 )
 
 
@@ -64,3 +66,51 @@ def test_complementary_info():
         "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/La-Mola-Bonastre-scaled.jpg",
     }
     assert cim_info == expected
+
+
+@pytest.mark.vcr()
+def test_merge_information():
+    test_cims = [
+        {
+            "nombre": "El Cogulló de Cabra",
+            "lat": 41.4290355033,
+            "lang": 1.30575794888,
+            "url": "https://www.feec.cat/activitats/100-cims/cim/el-cogullo-de-cabra/",
+        },
+        {
+            "nombre": "Puig de Tretzevents",
+            "lat": 42.492101894,
+            "lang": 2.4683643295,
+            "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-tretzevents/",
+        },
+        {
+            "nombre": "Torre de Madeloc",
+            "lat": 42.4904284262,
+            "lang": 3.07511682009,
+            "url": "https://www.feec.cat/activitats/100-cims/cim/torre-de-madeloc/",
+        },
+    ]
+    test_complete_cim_info = {
+        "nombre": "El Cogulló de Cabra",
+        "lat": 41.4290355033,
+        "lang": 1.30575794888,
+        "url": "https://www.feec.cat/activitats/100-cims/cim/el-cogullo-de-cabra/",
+        "comarca": "Alt Camp",
+        "alt": 881,
+        "img_url": "https://www.feec.cat/wp-content/uploads/2019/04/El-Cogulló-de-Cabra-scaled.jpg",
+    }
+
+    test_essential = test_cims
+    test_repte = test_cims
+
+    all_cims = {"essential": test_essential, "repte": test_repte}
+
+    essential = [cim for cim in merge_information(all_cims["essential"])]
+    repte = [cim for cim in merge_information(all_cims["repte"])]
+
+    cims_list = {"essential": essential, "repte": repte}
+
+    cim_params = ["nombre", "lat", "lang", "url", "comarca", "alt", "img_url"]
+    assert list(cims_list.keys()) == ["essential", "repte"]
+    assert list(cims_list["essential"][0].keys()) == cim_params
+    assert cims_list["essential"][0] == test_complete_cim_info

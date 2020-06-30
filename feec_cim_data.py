@@ -2,6 +2,8 @@ import re
 from typing import Dict, Union, List
 import requests
 import bs4
+import json
+
 
 ESSENTIAL_PATTERN = r"var cims_essencials = \[(.*?)\]"
 REPTE_PATTERN = r"var cims_repte = \[(.*?)\]"
@@ -74,7 +76,7 @@ def _get_basic_info(pattern, tag):
     return list_to_dict(cims_list)
 
 
-def get_essential_cim_basic_information() -> Dict[str, list]:
+def get_cims_basic_information() -> Dict[str, list]:
     """Build dictionary information of essenital cims."""
     # Grab all cims page info
     url = "https://www.feec.cat/activitats/100-cims/"
@@ -119,5 +121,32 @@ def complementary_info(url=None):
     # img
     img_tag = soup.select(".attachment-post-thumbnail")[0]
     img_url = img_tag.attrs["src"]
-    return {"comarca": comarca, "altitude": altitude, "img_url": img_url}
+    return {"comarca": comarca, "alt": altitude, "img_url": img_url}
 
+
+#########################
+# Merge complementary data with basic info
+#########################
+
+
+def merge_information(cims_list: List[dict]):
+    # new_list = []
+    for cim in cims_list:
+        extra_info = complementary_info(cim["url"])
+        cim.update(extra_info)
+        yield cim
+    # return new_list
+
+
+def create_cims_list(save: bool = False) -> Dict[str, list]:
+    """Most top level cims scrape interface."""
+    cims_basic_info: Dict[str, list] = get_cims_basic_information()
+    cims = {
+        "essential": [cim for cim in merge_information(cims_basic_info["essential"])],
+        "repte": [cim for cim in merge_information(cims_basic_info["repte"])],
+    }
+    if save:
+        with open("cims.json", "w") as f:
+            json.dump(cims, f)
+
+    return cims

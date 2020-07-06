@@ -11,6 +11,12 @@ from selenium.webdriver.firefox.options import Options
 from feec_cim_data import CimsList
 
 #########################
+# Configurations
+#########################
+ROUTES_TAG = "div.main__results:nth-child(2)"
+LIMIT_ROUTES = 10
+
+#########################
 # Helper functions
 #########################
 def _filter_by_html_tag(page: str, tag: str) -> bs4.element.Tag:
@@ -39,8 +45,6 @@ def accept_cookie(driver: webdriver) -> None:
 # Get list route tag
 # Get url from each listed route
 
-LIMIT_ROUTES = 10
-
 
 def is_trekking_route(route_url: str):
     """Check if is a trekking route or not."""
@@ -68,18 +72,20 @@ def get_cim_routes_list(cim_uuid, page, tag):
     return {cim_uuid: {"trekking": trekking_routes}}
 
 
-def _get_url_from_card(card: bs4.Tag) -> str:
+def _get_url_from_card(idx: int, card: bs4.Tag) -> str:
     """Stripe url from route html card element."""
-    card_header = card.select("div.trail-card__header")[0]
-    route_url_tag = card_header.select("div:nth-child(1)")[1]
-    route_url = route_url_tag.a["href"]
+    # card_header = card.select("div.trail-card__header")[0]
+    route_url_tag = card.select(
+        f"div.trail:nth-child({idx}) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1)"  # noqa
+    )
+    # breakpoint()
+    route_url = route_url_tag[0]["href"]
     return route_url
-
 
 def select_routes_from_list(routes_list: bs4.Tag):
     # route_html_card = routes_list.select("div.trail")
     routes_cards_tag = routes_list.select("div.trail")
-    return [_get_url_from_card(card) for card in routes_cards_tag]
+    return [_get_url_from_card(idx +1, card) for idx, card in enumerate(routes_cards_tag)]
 
 
 def setup_browser():
@@ -120,8 +126,8 @@ def main():
 
     # get list of cims
     cims_list = CimsList.get_all()
-    for cim in cims_list:
-        search_cim(driver, cim["name"])
+    for cim in cims_list[:4]:
+        search_cim(driver, cim["nombre"])
         try:
             btn_select_first = driver.find_element_by_class_name(
                 "search-box-item__first"
@@ -134,12 +140,10 @@ def main():
         page = driver.page_source
 
         # scrape list of routes
-        get_routes_list(page)
-        route_url = ""
-        # add routes list to cim object
-        route = {"cim_uuid": cim["uuid"], "url": route_url}
-        cim["routes"] = []
-
+        cim["routes"] = get_cim_routes_list(cim["uuid"], page, ROUTES_TAG)
+        # breakpoint()
+        cim["url_search"] = driver.current_url
+        print(cim)
 
 if __name__ == "__main__":
     main()

@@ -171,3 +171,12 @@ def create_cims_list(save: bool = False) -> Dict[str, list]:
             json.dump(cims, f)
 
     return cims
+
+
+class CimsList:
+    @staticmethod
+    def get_all() -> list:
+        """Return all cims from database."""
+        with open("cims.json") as f:
+            cims = json.load(f)
+        return [*cims["essential"], *cims["repte"]]

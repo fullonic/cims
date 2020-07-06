@@ -111,7 +111,9 @@ def test_merge_information():
 
     all_cims = {"essential": test_essential, "repte": ""}
 
-    essential = [cim for cim in merge_information(all_cims["essential"], essential=True)]
+    essential = [
+        cim for cim in merge_information(all_cims["essential"], essential=True)
+    ]
 
     cims_list = {"essential": essential, "repte": ""}
 

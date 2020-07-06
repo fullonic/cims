@@ -2,6 +2,7 @@ import pytest
 from feec_cim_data import get_cims_basic_information, create_cims_list
 
 
+@pytest.mark.skip
 def test_get_cims_basic_information():
     cims = get_cims_basic_information()
     cims_group = "essential repte".split(" ")
@@ -15,6 +16,7 @@ def test_get_cims_basic_information():
     assert len(cims["repte"]) == 158
 
 
+@pytest.mark.skip
 @pytest.mark.vcr()
 def test_create_cims_list():
     """Test all scraped functionality.

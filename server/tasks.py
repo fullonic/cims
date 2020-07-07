@@ -8,4 +8,8 @@ from .data_collector.wikiloc import WikiLoc
 
 def wikiloc_collect(driver: webdriver, url: str, cims_list: List[Cim]):
     """Top level call for wikiloc browser data collect."""
-    WikiLoc(url).collect(driver, cims_list)
+    wikiloc = WikiLoc(url)
+    wikiloc.collect(driver, cims_list)
+    wikiloc.save()
+    driver.close()
+    print("Browser closed")

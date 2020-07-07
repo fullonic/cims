@@ -1,4 +1,6 @@
 import random
+import json
+from pathlib import Path
 from typing import List
 from time import sleep
 from dataclasses import dataclass
@@ -111,7 +113,20 @@ def setup_browser(headless: bool = False):
     return driver
 
 
+def _save(new_update, name, mode="w"):
+    # open file
+    # fname = Path(__file__).parent / f"{name}.json"
+    with open(name, mode) as f:
+        f.write(new_update + "\n")
+    # save new data into file
+    # with open(fname, mode) as f:
+    #     current[name].append(new_update)
+    #     json.dump(current, f)
+
+
 def _collect_wikiloc_data(driver, cims_list):
+    search_urls = []
+    routes_list = []
     for cim in cims_list:
         search_cim(driver, cim["nombre"])
         try:
@@ -126,6 +141,10 @@ def _collect_wikiloc_data(driver, cims_list):
         page = driver.page_source
 
         # scrape list of routes
-        cim["routes"] = get_cim_routes_list(cim["uuid"], page, ROUTES_TAG)
+        routes_list.append(get_cim_routes_list(cim["uuid"], page, ROUTES_TAG))
         # breakpoint()
-        cim["url_search"] = driver.current_url
+        search_urls.append({cim["uuid"]: driver.current_url})
+
+    # save new data into files
+    _save(routes_list, "routes_list.txt")
+    _save(search_urls, "search_urls.txt")

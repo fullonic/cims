@@ -40,4 +40,5 @@ def test_wikiloc_collect():
     cims_list = CimsList.get_all()[:3]
     url = "https://es.wikiloc.com/"
     driver = setup_browser(headless=True)
+    breakpoint()
     wikiloc_collect(driver, url, cims_list)

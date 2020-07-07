@@ -1,13 +1,18 @@
 import random
 from typing import List
 from time import sleep
-
+from dataclasses import dataclass
 import bs4
 from bs4.element import Tag, ResultSet
 from selenium import webdriver
-from selenium.common.exceptions import ElementClickInterceptedException
+from selenium.common.exceptions import (
+    ElementClickInterceptedException,
+    NoSuchElementException,
+)
 from selenium.webdriver.firefox.options import Options
+from fake_useragent import UserAgent
 
+from schemas import Cim
 from feec_cim_data import CimsList
 
 #########################
@@ -34,29 +39,22 @@ def search_cim(driver: webdriver, keyword: str) -> None:
 
 def accept_cookie(driver: webdriver) -> None:
     """Wikiloc accept cookie policy."""
-    btn = driver.find_element_by_id("acept-cookies")
-    btn.click()
+    try:
+        btn = driver.find_element_by_id("acept-cookies")
+        btn.click()
+    except NoSuchElementException:
+        pass
 
 
 #########################
 # Scrape information
 #########################
 
-# Get list route tag
-# Get url from each listed route
 
-
-def is_trekking_route(route_url: str):
-    """Check if is a trekking route or not."""
-    if route_url.startswith("/rutas-senderismo"):
-        return True
-    return False
-
-
-def _get_treks(routes_list: List[str]) -> List[str]:
+def _get_treks(routes_list: List[str], type_: str = "/rutas-senderismo") -> List[str]:
     lst = []
     for route in routes_list:
-        if is_trekking_route(route):
+        if route.startswith(type_):
             lst.append(route)
             if len(lst) == LIMIT_ROUTES:
                 return lst
@@ -78,14 +76,16 @@ def _get_url_from_card(idx: int, card: bs4.Tag) -> str:
     route_url_tag = card.select(
         f"div.trail:nth-child({idx}) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1)"  # noqa
     )
-    # breakpoint()
     route_url = route_url_tag[0]["href"]
     return route_url
+
 
 def select_routes_from_list(routes_list: bs4.Tag):
     # route_html_card = routes_list.select("div.trail")
     routes_cards_tag = routes_list.select("div.trail")
-    return [_get_url_from_card(idx +1, card) for idx, card in enumerate(routes_cards_tag)]
+    return [
+        _get_url_from_card(idx + 1, card) for idx, card in enumerate(routes_cards_tag)
+    ]
 
 
 def setup_browser():
@@ -96,37 +96,18 @@ def setup_browser():
     Posible export configration from outside
 
     """
-    user_agents = [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246",
-        "Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
-        "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36",
-        "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1",
-    ]  # noqa
 
-    user_agent = random.choice(user_agents)
+    user_agent = UserAgent()
     profile = webdriver.FirefoxProfile()
-    profile.set_preference("general.useragent.override", user_agent)
+    profile.set_preference("general.useragent.override", user_agent.random)
     opts = Options()
     # opts.headless = True
     driver: webdriver = webdriver.Firefox(firefox_profile=profile, options=opts)
     return driver
 
 
-def get_cims_list():
-    return CimsList.get_all()
-
-
-def main():
-    cim_url = "https://es.wikiloc.com/"
-    driver = setup_browser()
-    # open wikiloc main page and accept cookies
-    driver.get(cim_url)
-    accept_cookie(driver)
-
-    # get list of cims
-    cims_list = CimsList.get_all()
-    for cim in cims_list[:4]:
+def _collect_wikiloc_data(driver, cims_list):
+    for cim in cims_list:
         search_cim(driver, cim["nombre"])
         try:
             btn_select_first = driver.find_element_by_class_name(
@@ -143,7 +124,27 @@ def main():
         cim["routes"] = get_cim_routes_list(cim["uuid"], page, ROUTES_TAG)
         # breakpoint()
         cim["url_search"] = driver.current_url
-        print(cim)
+
+
+@dataclass
+class WikiLoc:
+    """Wikiloc data collector."""
+    url: str
+
+    def collect(self, driver: webdriver, cims_list: List):
+        """Run collector script by order."""
+        driver.get(self.url)
+        accept_cookie(driver)
+        return _collect_wikiloc_data(driver, cims_list)
+
+def get_cims_list():
+    """Get all CIMs from storage."""
+    return CimsList.get_all()
+
 
 if __name__ == "__main__":
-    main()
+    driver = setup_browser()
+    cims_lst = CimsList.get_all()[:3]
+    cim_url = "https://es.wikiloc.com/"
+    wikiloc = WikiLoc(cim_url)
+    wikiloc.collect(driver, cims_lst)

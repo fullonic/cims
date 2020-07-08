@@ -36,23 +36,12 @@ class WikiLoc:
         accept_cookie(driver)
 
         for cim in cims_list:
-            search_cim(driver, cim["nombre"])
-            try:
-                btn_select_first = driver.find_element_by_class_name(
-                    "search-box-item__first"
-                )
-            except ElementClickInterceptedException:
-                # TODO: handle possible error here
-                print("ERROR")
-            btn_select_first.click()
-
-            page = driver.page_source
-
-            # scrape list of routes
-            self.routes_list.append(get_cim_routes_list(cim["uuid"], page, ROUTES_TAG))
-            # breakpoint()
-            self.search_urls.append({cim["uuid"]: driver.current_url})
-
+            if search_cim(driver, cim["nombre"]):
+                page = driver.page_source
+                # scrape list of routes
+                self.routes_list.append(get_cim_routes_list(cim["uuid"], page, ROUTES_TAG))
+                # breakpoint()
+                self.search_urls.append({cim["uuid"]: driver.current_url})
         # save new data into files
 
 

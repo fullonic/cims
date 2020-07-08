@@ -9,6 +9,8 @@ from server.data_collector.utils import (
     get_cims_list,
     _filter_by_html_tag,
     get_cim_routes_list,
+    search_cim,
+    accept_cookie
 )
 
 from server.data_collector.feec import CimsList
@@ -21,13 +23,13 @@ def open_file(path):
         return f.read()
 
 
-TEST_PAGE = open_file("./tests/testing_html_pages/wikiloc.html")
+TEST_PAGE = open_file("./tests/testing_html_pages/wikiloc_search_cim.html")
 ROUTES_TAG = "div.main__results:nth-child(2)"
 TITLE_TAG = open_file("./tests/testing_html_pages/title_tag.html")
 CIM_UUID = "7611e6e3960f455b9e0055ec371f2953"
+BASE_URL = "https://es.wikiloc.com/"
 
 
-@pytest.mark.xfail
 def test_select_routes_from_list():
     """Failing because test page isn't the same as the real page."""
     routes_list = _filter_by_html_tag(TEST_PAGE, ROUTES_TAG)
@@ -41,7 +43,6 @@ def test_get_cims_list():
     assert isinstance(cims_list[0], dict)
 
 
-@pytest.mark.xfail
 def test_get_cim_routes_list():
     """Failing because test page isn't the same as the real page."""
     cim_route_list = get_cim_routes_list(CIM_UUID, TEST_PAGE, ROUTES_TAG)
@@ -74,6 +75,7 @@ def split_cims(queue, n_cims=20):
         yield cims_list[i : i + n_cims]
 
 
+@pytest.mark.skip
 def test_multiple_browsers():
     workers = 4
     cims_per_task = 2
@@ -82,11 +84,27 @@ def test_multiple_browsers():
     loop.set_debug(True)
     queue = Queue()
 
-
     for cims in split_cims(queue, n_cims=cims_per_task):
         queue.put(cims)
     queue.put(None)
     # cims = [lst[:4], lst[4:8], lst[8:12], lst[8:16]]
-    url = "https://es.wikiloc.com/"
 
-    loop.run_until_complete(run_multiple(url, queue))
+    loop.run_until_complete(run_multiple(BASE_URL, queue))
+
+
+@pytest.mark.skip
+def test_search_cim():
+    """Test search cim by name."""
+    cim_name = "Puig de Tretzevents"
+    url = BASE_URL
+    driver = setup_browser()
+    # Open browser
+    driver.get(url)
+    accept_cookie(driver)
+    # Search cim
+    search_succeed = search_cim(driver, cim_name)
+    # get page content
+    page = driver.page_source
+    assert search_succeed is True
+    assert isinstance(page, str)
+    # assert len(page) == 170099

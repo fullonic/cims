@@ -37,6 +37,17 @@ def search_cim(driver: webdriver, keyword: str) -> None:
     search = driver.find_element_by_class_name("search-box__input")
     search.send_keys(cim_name)
     search.click()
+    try:
+        btn_select_first = driver.find_element_by_class_name(
+            "search-box-item__first"
+        )
+        btn_select_first.click()
+        return True
+    except ElementClickInterceptedException:
+        # TODO: handle possible error here and logging
+        print("ERROR")
+        return False
+
 
 
 def accept_cookie(driver: webdriver) -> None:

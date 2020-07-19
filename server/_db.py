@@ -20,11 +20,10 @@ class DataBase:
 
     routes: list = field(default_factory=list)
     search_urls: list = field(default_factory=list)
-    NEW_CIMS: dict = field(default_factory=dict)
+    updated_cims: dict = field(default_factory=dict)
 
     def add(self, data):
         """Commit data into memory session."""
-
         print("Adding to in memory database")
 
         if data.get("routes", False):
@@ -39,17 +38,17 @@ class DataBase:
                     routes = el[uuid]["trekking"]
                     # add routes to route el
                     cim["routes"] = routes
-                    self.NEW_CIMS[uuid] = cim
+                    self.updated_cims[uuid] = cim
                     self.routes.append(routes)
                 except KeyError:
                     print(f"UUID not found: {uuid}")
-        return self.NEW_CIMS
+        return self.updated_cims
 
     def commit(self):
         """Commit data into file."""
         with open("routes_cims.json", "w") as f:
-            json.dump(self.NEW_CIMS, f)
-        print(f"Commit {len(self.NEW_CIMS)} cims into json file")
+            json.dump(self.updated_cims, f)
+        print(f"Commit {len(self.updated_cims)} cims into json file")
 
 
 RAMDB = DataBase()

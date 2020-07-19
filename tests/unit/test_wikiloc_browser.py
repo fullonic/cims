@@ -1,30 +1,27 @@
+"""Test suite of wikiloc data collection."""
+
 import asyncio
 import json
-from functools import lru_cache
 from concurrent.futures import ThreadPoolExecutor
-from queue import Queue
-import pytest
-from bs4.element import Tag, ResultSet
+from functools import lru_cache
 
-from server.data_collector.utils import (
-    select_routes_from_list,
-    get_cims_list,
-    _filter_by_html_tag,
-    get_cim_routes_list,
-    search_cim,
-    accept_cookie,
-    run_multiple,
-    create_queue,
-    download_missing_cims
-)
+import pytest  # type: ignore
 
 from server.data_collector.feec import CimsList
-from server.app import db
 
 # from server.tasks import wikiloc_collect
-from server.data_collector.utils import setup_browser, wikiloc_browser
-from typing import Set
-from uuid import uuid4
+from server.data_collector.utils import (
+    _filter_by_html_tag,
+    accept_cookie,
+    create_queue,
+    download_missing_cims,
+    get_cim_routes_list,
+    get_cims_list,
+    run_multiple,
+    search_cim,
+    select_routes_from_list,
+    setup_browser,
+)
 
 
 @lru_cache
@@ -96,6 +93,7 @@ def test_multiple_browsers():
 
 @pytest.mark.asyncio
 async def test_create_queue():
+    """Test creation of task queue of cims to be scrapped."""
     cims_per_task = 4
     cims_list = CimsList.get_all()[:10]
     q = create_queue(cims_list, cims_per_task)
@@ -104,7 +102,7 @@ async def test_create_queue():
 
 @pytest.mark.skip
 def test_add_key_to_cims_list():
-    """Add uuid to cims list and dumps to json file"""
+    """Add uuid to cims list and dumps to json file."""
     lst = CimsList.get_all()
     key_cims = {}
     with open("key_cims.json", "w") as f:

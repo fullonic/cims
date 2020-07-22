@@ -46,6 +46,6 @@ def test_create_geojso_file_for_dev(data):
     repte = [cim for cim in data if cim.essential is False]
     cims = [*essentials[:15], *repte[:15]]
     assert len(cims) == 30
-    geojson = to_geojson({"essentials": essentials, "repte": repte})
+    geojson = to_geojson(cims)
     with open("cims_data/geojson_cims.geojson", "w") as f:
         ujson.dump(geojson, f)

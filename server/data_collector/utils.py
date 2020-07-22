@@ -228,9 +228,16 @@ def to_geojson(data: Union[List[Cim], Dict[str, List[Cim]]]):
                 {
                     "type": "Feature",
                     "properties": {
+                        "uuid": cim.uuid,
                         "name": cim.nombre,
+                        "region": cim.region,
+                        "lat": cim.lat,
+                        "lng": cim.lang,
                         "alt": cim.alt,
                         "essential": cim.essential,
+                        "url": cim.url,
+                        "img_url": cim.img_url,
+                        "routes": cim.routes,
                     },
                     "geometry": {"type": "Point", "coordinates": [cim.lang, cim.lat]},
                 }
@@ -247,11 +254,18 @@ def to_geojson(data: Union[List[Cim], Dict[str, List[Cim]]]):
             {
                 "type": "Feature",
                 "properties": {
-                    "name": cim.nombre,
+                    "uuid": cim.uuid,
+                    "nombre": cim.nombre,
+                    "region": cim.region,
+                    "lat": cim.lat,
+                    "lang": cim.lang,
                     "alt": cim.alt,
                     "essential": cim.essential,
+                    "url": cim.url,
+                    "img_url": cim.img_url,
+                    "routes": cim.routes,
                 },
-                "geometry": {"type": "Point", "coordinates": [cim.lang, cim.lat],},
+                "geometry": {"type": "Point", "coordinates": [cim.lang, cim.lat]},
             }
             for cim in data
         ],

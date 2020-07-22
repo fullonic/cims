@@ -356,37 +356,51 @@ var essentialMarker = L.AwesomeMarkers.icon({
   prefix: "fa",
   markerColor: "green",
 });
+var clusterOptions = {
+  disableClusteringAtZoom: 10,
+  zoomToBoundsOnClick: true,
+  spiderLegPolylineOptions: { weight: 1.5, color: '#000', opacity: 0.5 },
+};
 
-// Layers
-var essential = L.geoJSON([], {
+// Essential CIMS Layers
+var essential_layer = L.markerClusterGroup(clusterOptions);
+var essential_geojson = L.geoJSON([], {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, { icon: essentialMarker });
   },
 });
-var repte = L.geoJSON([], {
+// Repte CIMS Layers
+var repte_layer = L.markerClusterGroup(clusterOptions);
+var repte_geojson = L.geoJSON([], {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, { icon: repteMarker });
   },
 });
 
 var overlayMaps = {
-  Essential: essential,
-  Repte: repte,
+  Essential: essential_layer,
+  Repte: repte_layer,
 };
 
 // Base map
 var map = L.map("mapid", {
   center: [42.0, 1.3],
   zoom: 8,
-  layers: [essential, repte], //default selected layers
+  maxZoom: 18,
+  layers: [essential_layer, repte_layer], //default selected layers
 });
 
 L.tileLayer(terrain_tails, {
   foo: "bar",
   attribution: attribution,
-  maxZoom: 18,
 }).addTo(map);
 
+//  add layers
 L.control.layers({}, overlayMaps).addTo(map);
-essential.addData(geojson["essentials"]);
-repte.addData(geojson["repte"]);
+essential_geojson.addData(geojson["essentials"]);
+
+repte_geojson.addData(geojson["repte"]);
+essential_layer.addLayer(essential_geojson);
+repte_layer.addLayer(repte_geojson);
+map.addLayer(essential_layer);
+console.log(map.getZoom());

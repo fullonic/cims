@@ -33,7 +33,7 @@ def _filter_by_html_tag(page: str, tag: str) -> bs4.element.Tag:
     return soup.select(tag)[0]
 
 
-def search_cim(driver: webdriver, keyword: str) -> None:
+def search_cim(driver: webdriver, keyword: str) -> bool:
     """Wikiloc search box input."""
     cim_name = keyword
     search = driver.find_element_by_class_name("search-box__input")
